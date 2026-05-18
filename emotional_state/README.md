@@ -19,7 +19,6 @@ A collection of **13,041 unique emotion-related words and phrases**, compiled fr
 | `emotion_keywords_merged.csv` | Full dataset with columns: `category`, `word`, `source`. 25,229 rows (a word can appear in multiple categories). |
 | `emotion_keywords_with_all_categories.csv` | Lookup table with columns: `word`, `categories`. Each word is mapped to all of its associated emotion labels (comma-separated). 13,041 rows. |
 | `nrc_emolex_by_emotion.csv` | Raw NRC EmoLex data with columns: `emotion`, `word`. |
-| `emotion_keywords_by_category.csv` | AFINN + VADER + manual curation data with columns: `category`, `word`. |
 | `fetch_emotion_keywords.py` | Python script that downloads AFINN and VADER lexicons, adds manually curated words, and outputs the merged CSV and keyword list. |
 | `fix_nrclex.py` | Helper script that loads NRC EmoLex through multiple fallback methods (local file → GitHub download → NRCLex API). |
 

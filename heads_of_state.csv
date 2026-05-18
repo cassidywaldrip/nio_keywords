@@ -1,3 +1,4 @@
+country,head_of_state,head_of_government
 Afghanistan,Hibatullah Akhundzada,Hasan Akhund
 Albania,Bajram Begaj,Edi Rama
 Algeria,Abdelmadjid Tebboune,Sifi Ghrieb
@@ -33,8 +34,8 @@ Burkina Faso,Ibrahim Traoré,Jean Emmanuel Ouédraogo
 Burkina Faso,Ibrahim Traore,Jean Emmanuel Ouedraogo
 Burundi,Évariste Ndayishimiye,Nestor Ntahontuye
 Burundi,Evariste Ndayishimiye,Nestor Ntahontuye
-Cabo Verde,José Maria Neves,Ulisses Correia e Silva
-Cabo Verde,Jose Maria Neves,Ulisses Correia e Silva
+Cape Verde,José Maria Neves,Ulisses Correia e Silva
+Cape Verde,Jose Maria Neves,Ulisses Correia e Silva
 Cambodia,Norodom Sihamoni,Hun Manet
 Cameroon,Paul Biya,Joseph Ngute
 Canada,Charles III,Mark Carney
@@ -49,8 +50,6 @@ Colombia,Gustavo Petro,Gustavo Petro
 Comoros,Azali Assoumani,Azali Assoumani
 Costa Rica,Laura Fernández Delgado,Laura Fernández Delgado
 Costa Rica,Laura Fernandez Delgado,Laura Fernandez Delgado
-Côte d'Ivoire,Alassane Ouattara,Robert Beugré Mambé
-Cote d'Ivoire,Alassane Ouattara,Robert Beugre Mambe
 Croatia,Zoran Milanović,Andrej Plenković
 Croatia,Zoran Milanovic,Andrej Plenkovic
 Cuba,Miguel Díaz-Canel,Manuel Marrero Cruz
@@ -107,6 +106,8 @@ Ireland,Catherine Connolly,Micheál Martin
 Ireland,Catherine Connolly,Micheal Martin
 Israel,Isaac Herzog,Benjamin Netanyahu
 Italy,Sergio Mattarella,Giorgia Meloni
+Ivory Coast,Alassane Ouattara,Robert Beugré Mambé
+Ivory Coast,Alassane Ouattara,Robert Beugre Mambe
 Jamaica,Charles III,Andrew Holness
 Japan,Naruhito,Sanae Takaichi
 Jordan,Abdullah II,Jafar Hassan

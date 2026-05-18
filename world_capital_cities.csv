@@ -1,7 +1,6 @@
-Abidjan,Côte d'Ivoire
-Abidjan,Cote d'Ivoire
-Yamoussoukro,Côte d'Ivoire
-Yamoussoukro,Cote d'Ivoire
+city,country
+Abidjan,Ivory Coast
+Yamoussoukro,Ivory Coast
 Abu Dhabi,United Arab Emirates
 Abuja,Nigeria
 Accra,Ghana
@@ -114,7 +113,7 @@ Jakarta,Indonesia
 Nusantara,Indonesia
 Jamestown,Saint Helena
 Jerusalem,Israel
-Ramallah,West Bank
+Ramallah,Palestine
 Juba,South Sudan
 Kabul,Afghanistan
 Kampala,Uganda
@@ -204,7 +203,7 @@ Port of Spain,Trinidad and Tobago
 Port Vila,Vanuatu
 Port-au-Prince,Haiti
 Prague,Czech Republic
-Praia,Cabo Verde
+Praia,Cape Verde
 Pristina,Kosovo
 Pyongyang,North Korea
 Quito,Ecuador

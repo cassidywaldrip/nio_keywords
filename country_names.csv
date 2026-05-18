@@ -1,8 +1,6 @@
-Afghanistan,Afghanistan,Asia
+country_name,english_name,region
 افغانستان,Afghanistan,Asia
-Albania,Albania,Europe
 Shqipëria,Albania,Europe
-Algeria,Algeria,Africa
 الجزائر,Algeria,Africa
 American Samoa,American Samoa,Oceania
 Andorra,Andorra,Europe
@@ -10,273 +8,176 @@ Angola,Angola,Africa
 Anguilla,Anguilla,Caribbean
 Antigua and Barbuda,Antigua and Barbuda,Caribbean
 Argentina,Argentina,South America
-Armenia,Armenia,Asia
 Հայաստան,Armenia,Asia
 Aruba,Aruba,Caribbean
 Australia,Australia,Oceania
-Austria,Austria,Europe
 Österreich,Austria,Europe
-Azerbaijan,Azerbaijan,Asia
 Azərbaycan,Azerbaijan,Asia
 The Bahamas,The Bahamas,Caribbean
-Bahrain,Bahrain,Asia
 البحرين,Bahrain,Asia
-Bangladesh,Bangladesh,Asia
 বাংলাদেশ,Bangladesh,Asia
 Barbados,Barbados,Caribbean
-Belarus,Belarus,Europe
 Беларусь,Belarus,Europe
-Belgium,Belgium,Europe
 België,Belgium,Europe
 Belize,Belize,Central America
-Benin,Benin,Africa
 Bénin,Benin,Africa
 Bermuda,Bermuda,Caribbean
-Bhutan,Bhutan,Asia
 འབྲུག་ཡུལ,Bhutan,Asia
 Bolivia,Bolivia,South America
-Bosnia and Herzegovina,Bosnia and Herzegovina,Europe
 Bosna i Hercegovina,Bosnia and Herzegovina,Europe
 Botswana,Botswana,Africa
-Brazil,Brazil,South America
 Brasil,Brazil,South America
 British Virgin Islands,British Virgin Islands,Caribbean
 Brunei,Brunei,Asia
-Bulgaria,Bulgaria,Europe
 България,Bulgaria,Europe
 Burkina Faso,Burkina Faso,Africa
 Burundi,Burundi,Africa
-Cabo Verde,Cabo Verde,Africa
-Cambodia,Cambodia,Asia
+Cabo Verde,Cape Verde,Africa
 កម្ពុជា,Cambodia,Asia
-Cameroon,Cameroon,Africa
 Cameroun,Cameroon,Africa
 Canada,Canada,North America
 Cayman Islands,Cayman Islands,Caribbean
-Central African Republic,Central African Republic,Africa
 République centrafricaine,Central African Republic,Africa
-Chad,Chad,Africa
 Tchad,Chad,Africa
 Chile,Chile,South America
-China,China,Asia
 中国,China,Asia
 Cocos (Keeling) Islands,Cocos (Keeling) Islands,Oceania
 Colombia,Colombia,South America
-Comoros,Comoros,Africa
 Comores,Comoros,Africa
-Democratic Republic of the Congo,Democratic Republic of the Congo,Africa
 République démocratique du Congo,Democratic Republic of the Congo,Africa
-Republic of the Congo,Republic of the Congo,Africa
 République du Congo,Republic of the Congo,Africa
 Cook Islands,Cook Islands,Oceania
 Costa Rica,Costa Rica,Central America
-Côte d'Ivoire,Côte d'Ivoire,Africa
-Cote d'Ivoire,Côte d'Ivoire,Africa
-Croatia,Croatia,Europe
+Côte d'Ivoire,Ivory Coast,Africa
+Cote d'Ivoire,Ivory Coast,Africa
 Hrvatska,Croatia,Europe
 Cuba,Cuba,Caribbean
-Curaçao,Curaçao,Caribbean
-Curacao,Curaçao,Caribbean
-Cyprus,Cyprus,Asia
+Curaçao,Curacao,Caribbean
 Κύπρος,Cyprus,Asia
-Czech Republic,Czech Republic,Europe
 Česko,Czech Republic,Europe
-Denmark,Denmark,Europe
 Danmark,Denmark,Europe
-Djibouti,Djibouti,Africa
 جيبوتي,Djibouti,Africa
 Dominica,Dominica,Caribbean
-Dominican Republic,Dominican Republic,Caribbean
 República Dominicana,Dominican Republic,Caribbean
-East Timor,East Timor,Asia
 Timor-Leste,East Timor,Asia
 Ecuador,Ecuador,South America
-Egypt,Egypt,Africa
 مصر,Egypt,Africa
 El Salvador,El Salvador,Central America
-Equatorial Guinea,Equatorial Guinea,Africa
 Guinea Ecuatorial,Equatorial Guinea,Africa
-Eritrea,Eritrea,Africa
 ኤርትራ,Eritrea,Africa
-Estonia,Estonia,Europe
 Eesti,Estonia,Europe
 Eswatini,Eswatini,Africa
-Ethiopia,Ethiopia,Africa
 ኢትዮጵያ,Ethiopia,Africa
 Falkland Islands,Falkland Islands,South America
-Faroe Islands,Faroe Islands,Europe
 Føroyar,Faroe Islands,Europe
-Fiji,Fiji,Oceania
 Viti,Fiji,Oceania
-Finland,Finland,Europe
 Suomi,Finland,Europe
 France,France,Europe
-French Guiana,French Guiana,South America
 Guyane,French Guiana,South America
-French Polynesia,French Polynesia,Oceania
 Polynésie française,French Polynesia,Oceania
 Gabon,Gabon,Africa
 The Gambia,The Gambia,Africa
-Gaza Strip,Gaza Strip,Asia
 قطاع غزة,Gaza Strip,Asia
-Georgia,Georgia,Asia
 საქართველო,Georgia,Asia
-Germany,Germany,Europe
 Deutschland,Germany,Europe
 Ghana,Ghana,Africa
 Gibraltar,Gibraltar,Europe
-Greece,Greece,Europe
 Ελλάδα,Greece,Europe
-Greenland,Greenland,North America
 Kalaallit Nunaat,Greenland,North America
 Grenada,Grenada,Caribbean
 Guadeloupe,Guadeloupe,Caribbean
 Guam,Guam,Oceania
 Guatemala,Guatemala,Central America
 Guernsey,Guernsey,Europe
-Guinea,Guinea,Africa
 Guinée,Guinea,Africa
-Guinea-Bissau,Guinea-Bissau,Africa
 Guiné-Bissau,Guinea-Bissau,Africa
 Guyana,Guyana,South America
-Haiti,Haiti,Caribbean
 Haïti,Haiti,Caribbean
 Ayiti,Haiti,Caribbean
 Honduras,Honduras,Central America
-Hong Kong,Hong Kong,Asia
 香港,Hong Kong,Asia
-Hungary,Hungary,Europe
 Magyarország,Hungary,Europe
-Iceland,Iceland,Europe
 Ísland,Iceland,Europe
-India,India,Asia
 भारत,India,Asia
 Indonesia,Indonesia,Asia
-Iran,Iran,Asia
 ایران,Iran,Asia
-Iraq,Iraq,Asia
 العراق,Iraq,Asia
-Ireland,Ireland,Europe
 Éire,Ireland,Europe
 Isle of Man,Isle of Man,Europe
-Israel,Israel,Asia
 ישראל,Israel,Asia
-Italy,Italy,Europe
 Italia,Italy,Europe
 Jamaica,Jamaica,Caribbean
-Japan,Japan,Asia
 日本,Japan,Asia
 Jersey,Jersey,Europe
-Jordan,Jordan,Asia
 الأردن,Jordan,Asia
-Kazakhstan,Kazakhstan,Asia
 Қазақстан,Kazakhstan,Asia
 Kenya,Kenya,Africa
 Kiribati,Kiribati,Oceania
-North Korea,North Korea,Asia
 조선,North Korea,Asia
-South Korea,South Korea,Asia
 한국,South Korea,Asia
-Kosovo,Kosovo,Europe
 Kosovë,Kosovo,Europe
-Kuwait,Kuwait,Asia
 الكويت,Kuwait,Asia
-Kyrgyzstan,Kyrgyzstan,Asia
 Кыргызстан,Kyrgyzstan,Asia
-Laos,Laos,Asia
 ລາວ,Laos,Asia
-Latvia,Latvia,Europe
 Latvija,Latvia,Europe
-Lebanon,Lebanon,Asia
 لبنان,Lebanon,Asia
 Lesotho,Lesotho,Africa
 Liberia,Liberia,Africa
-Libya,Libya,Africa
 ليبيا,Libya,Africa
 Liechtenstein,Liechtenstein,Europe
-Lithuania,Lithuania,Europe
 Lietuva,Lithuania,Europe
-Luxembourg,Luxembourg,Europe
 Lëtzebuerg,Luxembourg,Europe
-Macau,Macau,Asia
 澳門,Macau,Asia
-Madagascar,Madagascar,Africa
 Madagasikara,Madagascar,Africa
 Malawi,Malawi,Africa
 Malaysia,Malaysia,Asia
-Maldives,Maldives,Asia
 ދިވެހިރާއްޖެ,Maldives,Asia
 Mali,Mali,Africa
 Malta,Malta,Europe
 Marshall Islands,Marshall Islands,Oceania
 Martinique,Martinique,Caribbean
-Mauritania,Mauritania,Africa
 موريتانيا,Mauritania,Africa
 Mauritius,Mauritius,Africa
 Mayotte,Mayotte,Africa
-Mexico,Mexico,North America
 México,Mexico,North America
 Micronesia,Micronesia,Oceania
 Moldova,Moldova,Europe
 Monaco,Monaco,Europe
-Mongolia,Mongolia,Asia
 Монгол улс,Mongolia,Asia
-Montenegro,Montenegro,Europe
 Crna Gora,Montenegro,Europe
 Montserrat,Montserrat,Caribbean
-Morocco,Morocco,Africa
 المغرب,Morocco,Africa
-Mozambique,Mozambique,Africa
 Moçambique,Mozambique,Africa
-Myanmar,Myanmar,Asia
 မြန်မာ,Myanmar,Asia
 Namibia,Namibia,Africa
-Nauru,Nauru,Oceania
 Naoero,Nauru,Oceania
-Nepal,Nepal,Asia
 नेपाल,Nepal,Asia
-Netherlands,Netherlands,Europe
 Nederland,Netherlands,Europe
-New Caledonia,New Caledonia,Oceania
 Nouvelle-Calédonie,New Caledonia,Oceania
-New Zealand,New Zealand,Oceania
 Aotearoa,New Zealand,Oceania
 Nicaragua,Nicaragua,Central America
 Niger,Niger,Africa
 Nigeria,Nigeria,Africa
 Niue,Niue,Oceania
-North Macedonia,North Macedonia,Europe
 Северна Македонија,North Macedonia,Europe
 Northern Mariana Islands,Northern Mariana Islands,Oceania
-Norway,Norway,Europe
 Norge,Norway,Europe
-Oman,Oman,Asia
 عُمان,Oman,Asia
-Pakistan,Pakistan,Asia
 پاکستان,Pakistan,Asia
-Palau,Palau,Oceania
 Belau,Palau,Oceania
-Panama,Panama,Central America
+Palestine,Palestine,Asia
 Panamá,Panama,Central America
-Papua New Guinea,Papua New Guinea,Oceania
 Papua Niugini,Papua New Guinea,Oceania
 Paraguay,Paraguay,South America
-Peru,Peru,South America
 Perú,Peru,South America
-Philippines,Philippines,Asia
 Pilipinas,Philippines,Asia
 Pitcairn Island,Pitcairn Island,Oceania
-Poland,Poland,Europe
 Polska,Poland,Europe
 Portugal,Portugal,Europe
 Puerto Rico,Puerto Rico,Caribbean
-Qatar,Qatar,Asia
 قطر,Qatar,Asia
-Réunion,Réunion,Africa
-Reunion,Réunion,Africa
-Romania,Romania,Europe
+Réunion,Reunion,Africa
 România,Romania,Europe
-Russia,Russia,Europe
 Россия,Russia,Europe
 Rwanda,Rwanda,Africa
 Saint Helena,Saint Helena,Africa
@@ -286,83 +187,55 @@ Saint-Pierre and Miquelon,Saint-Pierre and Miquelon,North America
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Caribbean
 Samoa,Samoa,Oceania
 San Marino,San Marino,Europe
-Sao Tome and Principe,Sao Tome and Principe,Africa
 São Tomé and Príncipe,Sao Tome and Principe,Africa
-Saudi Arabia,Saudi Arabia,Asia
 السعودية,Saudi Arabia,Asia
-Senegal,Senegal,Africa
 Sénégal,Senegal,Africa
-Serbia,Serbia,Europe
 Србија,Serbia,Europe
 Seychelles,Seychelles,Africa
 Sierra Leone,Sierra Leone,Africa
 Singapore,Singapore,Asia
 Sint Maarten,Sint Maarten,Caribbean
-Slovakia,Slovakia,Europe
 Slovensko,Slovakia,Europe
-Slovenia,Slovenia,Europe
 Slovenija,Slovenia,Europe
 Solomon Islands,Solomon Islands,Oceania
-Somalia,Somalia,Africa
 Soomaaliya,Somalia,Africa
 South Africa,South Africa,Africa
-Spain,Spain,Europe
 España,Spain,Europe
-Sri Lanka,Sri Lanka,Asia
 ශ්‍රී ලංකා,Sri Lanka,Asia
 South Sudan,South Sudan,Africa
-Sudan,Sudan,Africa
 السودان,Sudan,Africa
 Suriname,Suriname,South America
-Sweden,Sweden,Europe
 Sverige,Sweden,Europe
-Switzerland,Switzerland,Europe
 Schweiz,Switzerland,Europe
-Syria,Syria,Asia
 سوريا,Syria,Asia
-Taiwan,Taiwan,Asia
 臺灣,Taiwan,Asia
-Tajikistan,Tajikistan,Asia
 Тоҷикистон,Tajikistan,Asia
 Tanzania,Tanzania,Africa
-Thailand,Thailand,Asia
 ไทย,Thailand,Asia
 Togo,Togo,Africa
 Tokelau,Tokelau,Oceania
 Tonga,Tonga,Oceania
 Trinidad and Tobago,Trinidad and Tobago,Caribbean
-Tunisia,Tunisia,Africa
 تونس,Tunisia,Africa
-Turkey,Turkey,Asia
 Türkiye,Turkey,Asia
-Turkmenistan,Turkmenistan,Asia
 Türkmenistan,Turkmenistan,Asia
 Tuvalu,Tuvalu,Oceania
 Turks and Caicos Islands,Turks and Caicos Islands,Caribbean
 Uganda,Uganda,Africa
-Ukraine,Ukraine,Europe
 Україна,Ukraine,Europe
-United Arab Emirates,United Arab Emirates,Asia
 الإمارات العربية المتحدة,United Arab Emirates,Asia
 United Kingdom,United Kingdom,Europe
 United States,United States,North America
 United States Virgin Islands,United States Virgin Islands,Caribbean
 Uruguay,Uruguay,South America
-Uzbekistan,Uzbekistan,Asia
 Oʻzbekiston,Uzbekistan,Asia
 Vanuatu,Vanuatu,Oceania
-Vatican City,Vatican City,Europe
 Città del Vaticano,Vatican City,Europe
 Venezuela,Venezuela,South America
-Vietnam,Vietnam,Asia
 Việt Nam,Vietnam,Asia
-Wallis and Futuna,Wallis and Futuna,Oceania
 Wallis-et-Futuna,Wallis and Futuna,Oceania
-West Bank,West Bank,Asia
 الضفة الغربية,West Bank,Asia
-Western Sahara,Western Sahara,Africa
 الصحراء الغربية,Western Sahara,Africa
-Yemen,Yemen,Asia
 اليمن,Yemen,Asia
 Zambia,Zambia,Africa
 Zimbabwe,Zimbabwe,Africa

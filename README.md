@@ -59,10 +59,9 @@ nio_keywords/
 ### `assassination_keywords/`
 
 **356 keywords** related to assassination, political violence, coups, and political arrests. Manually curated from news coverage of recent events (2022–2026 Trump assassination attempts, Shinzo Abe assassination, Brazilian coup plot, etc.), academic literature, and government reports. Organized into 11 categories: assassination terms, attack verbs, weapons, coups/regime change, political arrests/legal proceedings, general political violence, security terms, conspiracy/plots, aftermath/investigation, historical references, and international operations. See [`assassination_keywords/README.md`](assassination_keywords/README.md) for full details.
-
 ### `cultural_institutions/`
 
-**Global museum and cultural institution names** from Wikidata (101,000+ museum items as of late 2025). Covers 31 institution types: museums (art, history, science, natural history, etc.), opera houses, theaters, concert halls, performing arts centers, libraries, archives, art galleries, cultural centers, botanical gardens, zoos, aquariums, planetariums, film/music/arts festivals, and UNESCO World Heritage Sites. Names are retrieved in English and local languages. Includes a Python script (`fetch_cultural_institutions.py`) that queries the Wikidata SPARQL endpoint with automatic pagination and caching, as well as ready-to-use SPARQL queries for manual use. See [`cultural_institutions/README.md`](cultural_institutions/README.md) for full details.
+**Global museum and cultural institution names** from Wikidata (101,000+ museum items as of late 2025). Covers 31 institution types: museums (art, history, science, natural history, etc.), opera houses, theaters, concert halls, performing arts centers, libraries, archives, art galleries, cultural centers, botanical gardens, zoos, aquariums, planetariums, film/music/arts festivals, and UNESCO World Heritage Sites. Names are retrieved in English and local languages. Includes the SPARQL queries used and a ready-to-use keyword list. See [`cultural_institutions/README.md`](cultural_institutions/README.md) for full details.
 
 ### `emotional_states/`
 

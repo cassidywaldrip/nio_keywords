@@ -1,0 +1,427 @@
+city,country,region,alt_names
+Tokyo,Japan,Asia,東京
+Yokohama,Japan,Asia,横浜
+Osaka,Japan,Asia,大阪
+Nagoya,Japan,Asia,名古屋
+Sapporo,Japan,Asia,札幌
+Fukuoka,Japan,Asia,福岡
+Kobe,Japan,Asia,神戸
+Kyoto,Japan,Asia,京都
+Hiroshima,Japan,Asia,広島
+Shanghai,China,Asia,上海
+Beijing,China,Asia,北京/Peking
+Guangzhou,China,Asia,广州/Canton
+Shenzhen,China,Asia,深圳
+Chengdu,China,Asia,成都
+Wuhan,China,Asia,武汉
+Tianjin,China,Asia,天津
+Chongqing,China,Asia,重庆
+Hangzhou,China,Asia,杭州
+Nanjing,China,Asia,南京/Nanking
+Xi'an,China,Asia,西安
+Suzhou,China,Asia,苏州
+Harbin,China,Asia,哈尔滨
+Dalian,China,Asia,大连
+Qingdao,China,Asia,青岛
+Zhengzhou,China,Asia,郑州
+Changsha,China,Asia,长沙
+Kunming,China,Asia,昆明
+Hefei,China,Asia,合肥
+Fuzhou,China,Asia,福州
+Xiamen,China,Asia,厦门
+Dongguan,China,Asia,东莞
+Foshan,China,Asia,佛山
+Urumqi,China,Asia,乌鲁木齐
+Lhasa,China,Asia,拉萨
+Hong Kong,China,Asia,香港
+Macau,China,Asia,澳門/Macao
+Seoul,South Korea,Asia,서울
+Busan,South Korea,Asia,부산
+Incheon,South Korea,Asia,인천
+Daegu,South Korea,Asia,대구
+Daejeon,South Korea,Asia,대전
+Gwangju,South Korea,Asia,광주
+Taipei,Taiwan,Asia,台北/臺北
+Kaohsiung,Taiwan,Asia,高雄
+Taichung,Taiwan,Asia,台中/臺中
+Tainan,Taiwan,Asia,台南/臺南
+Delhi,India,Asia,दिल्ली/New Delhi
+Mumbai,India,Asia,मुंबई/Bombay
+Bangalore,India,Asia,ಬೆಂಗಳೂರು/Bengaluru
+Kolkata,India,Asia,কলকাতা/Calcutta
+Chennai,India,Asia,சென்னை/Madras
+Hyderabad,India,Asia,హైదరాబాద్
+Ahmedabad,India,Asia,અમદાવાદ
+Pune,India,Asia,पुणे
+Jaipur,India,Asia,जयपुर
+Lucknow,India,Asia,लखनऊ
+Kanpur,India,Asia,कानपुर
+Surat,India,Asia,સુરત
+Nagpur,India,Asia,नागपूर
+Kochi,India,Asia,കൊച്ചി/Cochin
+Varanasi,India,Asia,वाराणसी/Benares
+Amritsar,India,Asia,ਅੰਮ੍ਰਿਤਸਰ
+Jakarta,Indonesia,Asia,
+Surabaya,Indonesia,Asia,
+Bandung,Indonesia,Asia,
+Medan,Indonesia,Asia,
+Semarang,Indonesia,Asia,
+Yogyakarta,Indonesia,Asia,
+Denpasar,Indonesia,Asia,
+Bangkok,Thailand,Asia,กรุงเทพ/Krung Thep
+Chiang Mai,Thailand,Asia,เชียงใหม่
+Hanoi,Vietnam,Asia,Hà Nội
+Ho Chi Minh City,Vietnam,Asia,Thành phố Hồ Chí Minh/Saigon
+Da Nang,Vietnam,Asia,Đà Nẵng
+Manila,Philippines,Asia,Maynila
+Cebu City,Philippines,Asia,
+Davao City,Philippines,Asia,
+Quezon City,Philippines,Asia,
+Kuala Lumpur,Malaysia,Asia,
+George Town,Malaysia,Asia,Penang
+Johor Bahru,Malaysia,Asia,
+Singapore,Singapore,Asia,新加坡
+Yangon,Myanmar,Asia,ရန်ကုန်/Rangoon
+Dhaka,Bangladesh,Asia,ঢাকা
+Chittagong,Bangladesh,Asia,চট্টগ্রাম
+Karachi,Pakistan,Asia,کراچی
+Lahore,Pakistan,Asia,لاہور
+Islamabad,Pakistan,Asia,اسلام آباد
+Peshawar,Pakistan,Asia,پشاور
+Colombo,Sri Lanka,Asia,කොළඹ
+Kathmandu,Nepal,Asia,काठमाडौं
+Phnom Penh,Cambodia,Asia,ភ្នំពេញ
+Vientiane,Laos,Asia,ວຽງຈັນ
+Ulaanbaatar,Mongolia,Asia,Улаанбаатар
+Almaty,Kazakhstan,Asia,Алматы
+Astana,Kazakhstan,Asia,Астана/Nur-Sultan
+Tashkent,Uzbekistan,Asia,Тошкент
+Bishkek,Kyrgyzstan,Asia,Бишкек
+Dushanbe,Tajikistan,Asia,Душанбе
+Ashgabat,Turkmenistan,Asia,Aşgabat
+Kabul,Afghanistan,Asia,کابل
+Tehran,Iran,Middle East,تهران
+Isfahan,Iran,Middle East,اصفهان
+Mashhad,Iran,Middle East,مشهد
+Tabriz,Iran,Middle East,تبریز
+Shiraz,Iran,Middle East,شیراز
+Baghdad,Iraq,Middle East,بغداد
+Basra,Iraq,Middle East,البصرة
+Erbil,Iraq,Middle East,ئەربیل/Hawler
+Riyadh,Saudi Arabia,Middle East,الرياض
+Jeddah,Saudi Arabia,Middle East,جدة
+Mecca,Saudi Arabia,Middle East,مكة/Makkah
+Medina,Saudi Arabia,Middle East,المدينة المنورة
+Dubai,United Arab Emirates,Middle East,دبي
+Abu Dhabi,United Arab Emirates,Middle East,أبوظبي
+Doha,Qatar,Middle East,الدوحة
+Kuwait City,Kuwait,Middle East,الكويت
+Manama,Bahrain,Middle East,المنامة
+Muscat,Oman,Middle East,مسقط
+Sana'a,Yemen,Middle East,صنعاء
+Aden,Yemen,Middle East,عدن
+Amman,Jordan,Middle East,عمّان
+Beirut,Lebanon,Middle East,بيروت
+Damascus,Syria,Middle East,دمشق
+Aleppo,Syria,Middle East,حلب
+Jerusalem,Israel,Middle East,ירושלים/القدس
+Tel Aviv,Israel,Middle East,תל אביב
+Haifa,Israel,Middle East,חיפה
+Ramallah,Palestine,Middle East,رام الله
+Gaza City,Palestine,Middle East,غزة
+London,United Kingdom,Europe,
+Manchester,United Kingdom,Europe,
+Birmingham,United Kingdom,Europe,
+Glasgow,United Kingdom,Europe,
+Edinburgh,United Kingdom,Europe,
+Leeds,United Kingdom,Europe,
+Liverpool,United Kingdom,Europe,
+Bristol,United Kingdom,Europe,
+Belfast,United Kingdom,Europe,
+Cardiff,United Kingdom,Europe,
+Paris,France,Europe,
+Marseille,France,Europe,
+Lyon,France,Europe,
+Toulouse,France,Europe,
+Nice,France,Europe,
+Strasbourg,France,Europe,
+Bordeaux,France,Europe,
+Lille,France,Europe,
+Berlin,Germany,Europe,
+Munich,Germany,Europe,München
+Hamburg,Germany,Europe,
+Frankfurt,Germany,Europe,Frankfurt am Main
+Cologne,Germany,Europe,Köln
+Stuttgart,Germany,Europe,
+Dusseldorf,Germany,Europe,Düsseldorf
+Dresden,Germany,Europe,
+Leipzig,Germany,Europe,
+Hanover,Germany,Europe,Hannover
+Nuremberg,Germany,Europe,Nürnberg
+Rome,Italy,Europe,Roma
+Milan,Italy,Europe,Milano
+Naples,Italy,Europe,Napoli
+Turin,Italy,Europe,Torino
+Florence,Italy,Europe,Firenze
+Venice,Italy,Europe,Venezia
+Genoa,Italy,Europe,Genova
+Bologna,Italy,Europe,
+Palermo,Italy,Europe,
+Madrid,Spain,Europe,
+Barcelona,Spain,Europe,
+Valencia,Spain,Europe,València
+Seville,Spain,Europe,Sevilla
+Bilbao,Spain,Europe,
+Malaga,Spain,Europe,Málaga
+Lisbon,Portugal,Europe,Lisboa
+Porto,Portugal,Europe,
+Amsterdam,Netherlands,Europe,
+Rotterdam,Netherlands,Europe,
+The Hague,Netherlands,Europe,Den Haag
+Brussels,Belgium,Europe,Bruxelles/Brussel
+Antwerp,Belgium,Europe,Antwerpen/Anvers
+Vienna,Austria,Europe,Wien
+Zurich,Switzerland,Europe,Zürich
+Geneva,Switzerland,Europe,Genève
+Basel,Switzerland,Europe,Bâle
+Bern,Switzerland,Europe,Berne
+Stockholm,Sweden,Europe,
+Gothenburg,Sweden,Europe,Göteborg
+Malmo,Sweden,Europe,Malmö
+Copenhagen,Denmark,Europe,København
+Oslo,Norway,Europe,
+Bergen,Norway,Europe,
+Helsinki,Finland,Europe,
+Dublin,Ireland,Europe,Baile Átha Cliath
+Athens,Greece,Europe,Αθήνα/Athina
+Thessaloniki,Greece,Europe,Θεσσαλονίκη
+Istanbul,Turkey,Europe,İstanbul
+Ankara,Turkey,Europe,
+Izmir,Turkey,Europe,
+Antalya,Turkey,Europe,
+Bursa,Turkey,Europe,
+Moscow,Russia,Europe,Москва/Moskva
+Saint Petersburg,Russia,Europe,Санкт-Петербург/St. Petersburg
+Novosibirsk,Russia,Asia,Новосибирск
+Yekaterinburg,Russia,Asia,Екатеринбург
+Kazan,Russia,Europe,Казань
+Nizhny Novgorod,Russia,Europe,Нижний Новгород
+Vladivostok,Russia,Asia,Владивосток
+Rostov-on-Don,Russia,Europe,Ростов-на-Дону
+Volgograd,Russia,Europe,Волгоград
+Sochi,Russia,Europe,Сочи
+Kyiv,Ukraine,Europe,Київ/Kiev
+Kharkiv,Ukraine,Europe,Харків
+Odesa,Ukraine,Europe,Одеса/Odessa
+Lviv,Ukraine,Europe,Львів
+Dnipro,Ukraine,Europe,Дніпро
+Warsaw,Poland,Europe,Warszawa
+Krakow,Poland,Europe,Kraków
+Wroclaw,Poland,Europe,Wrocław
+Gdansk,Poland,Europe,Gdańsk
+Poznan,Poland,Europe,Poznań
+Prague,Czech Republic,Europe,Praha
+Brno,Czech Republic,Europe,
+Budapest,Hungary,Europe,
+Bucharest,Romania,Europe,București
+Cluj-Napoca,Romania,Europe,
+Timisoara,Romania,Europe,Timișoara
+Sofia,Bulgaria,Europe,София
+Belgrade,Serbia,Europe,Beograd/Београд
+Zagreb,Croatia,Europe,
+Sarajevo,Bosnia and Herzegovina,Europe,
+Ljubljana,Slovenia,Europe,
+Skopje,North Macedonia,Europe,Скопје
+Tirana,Albania,Europe,Tiranë
+Pristina,Kosovo,Europe,Prishtinë/Priština
+Bratislava,Slovakia,Europe,
+Tallinn,Estonia,Europe,
+Riga,Latvia,Europe,Rīga
+Vilnius,Lithuania,Europe,
+Minsk,Belarus,Europe,Мінск
+Chisinau,Moldova,Europe,Chișinău
+Tbilisi,Georgia,Europe,თბილისი
+Yerevan,Armenia,Europe,Երևան
+Baku,Azerbaijan,Europe,Bakı
+Nicosia,Cyprus,Europe,Λευκωσία/Lefkoşa
+Valletta,Malta,Europe,Il-Belt Valletta
+Reykjavik,Iceland,Europe,Reykjavík
+Monaco,Monaco,Europe,
+Luxembourg City,Luxembourg,Europe,
+Cairo,Egypt,Africa,القاهرة/al-Qahira
+Alexandria,Egypt,Africa,الإسكندرية
+Lagos,Nigeria,Africa,
+Abuja,Nigeria,Africa,
+Kano,Nigeria,Africa,
+Ibadan,Nigeria,Africa,
+Nairobi,Kenya,Africa,
+Mombasa,Kenya,Africa,
+Addis Ababa,Ethiopia,Africa,አዲስ አበባ
+Dar es Salaam,Tanzania,Africa,
+Kinshasa,Democratic Republic of the Congo,Africa,
+Luanda,Angola,Africa,
+Johannesburg,South Africa,Africa,
+Cape Town,South Africa,Africa,Kaapstad
+Durban,South Africa,Africa,eThekwini
+Pretoria,South Africa,Africa,Tshwane
+Casablanca,Morocco,Africa,الدار البيضاء/Dar el Beida
+Marrakech,Morocco,Africa,مراكش
+Rabat,Morocco,Africa,الرباط
+Algiers,Algeria,Africa,الجزائر/Alger
+Tunis,Tunisia,Africa,تونس
+Tripoli,Libya,Africa,طرابلس
+Khartoum,Sudan,Africa,الخرطوم
+Accra,Ghana,Africa,
+Dakar,Senegal,Africa,
+Abidjan,Ivory Coast,Africa,
+Kampala,Uganda,Africa,
+Maputo,Mozambique,Africa,
+Antananarivo,Madagascar,Africa,
+Bamako,Mali,Africa,
+Ouagadougou,Burkina Faso,Africa,
+Niamey,Niger,Africa,
+Mogadishu,Somalia,Africa,Muqdisho
+Harare,Zimbabwe,Africa,
+Lusaka,Zambia,Africa,
+Douala,Cameroon,Africa,
+Yaounde,Cameroon,Africa,Yaoundé
+Brazzaville,Republic of the Congo,Africa,
+Libreville,Gabon,Africa,
+N'Djamena,Chad,Africa,
+Bangui,Central African Republic,Africa,
+Asmara,Eritrea,Africa,ኣስመራ
+Djibouti,Djibouti,Africa,
+Windhoek,Namibia,Africa,
+Gaborone,Botswana,Africa,
+Port Louis,Mauritius,Africa,
+New York City,United States,North America,New York/NYC
+Los Angeles,United States,North America,LA
+Chicago,United States,North America,
+Houston,United States,North America,
+Phoenix,United States,North America,
+Philadelphia,United States,North America,Philly
+San Antonio,United States,North America,
+San Diego,United States,North America,
+Dallas,United States,North America,
+San Jose,United States,North America,
+Austin,United States,North America,
+Jacksonville,United States,North America,
+San Francisco,United States,North America,SF
+Fort Worth,United States,North America,
+Columbus,United States,North America,
+Charlotte,United States,North America,
+Indianapolis,United States,North America,
+Seattle,United States,North America,
+Denver,United States,North America,
+Nashville,United States,North America,
+Oklahoma City,United States,North America,OKC
+El Paso,United States,North America,
+Boston,United States,North America,
+Portland,United States,North America,
+Las Vegas,United States,North America,
+Memphis,United States,North America,
+Louisville,United States,North America,
+Baltimore,United States,North America,
+Milwaukee,United States,North America,
+Albuquerque,United States,North America,
+Tucson,United States,North America,
+Fresno,United States,North America,
+Sacramento,United States,North America,
+Mesa,United States,North America,
+Kansas City,United States,North America,KC
+Atlanta,United States,North America,
+Omaha,United States,North America,
+Colorado Springs,United States,North America,
+Raleigh,United States,North America,
+Virginia Beach,United States,North America,
+Miami,United States,North America,
+Minneapolis,United States,North America,
+Tampa,United States,North America,
+New Orleans,United States,North America,NOLA
+Cleveland,United States,North America,
+Honolulu,United States,North America,
+St. Louis,United States,North America,Saint Louis
+Pittsburgh,United States,North America,
+Cincinnati,United States,North America,
+Orlando,United States,North America,
+Detroit,United States,North America,
+Anchorage,United States,North America,
+Buffalo,United States,North America,
+Salt Lake City,United States,North America,SLC
+Toronto,Canada,North America,
+Montreal,Canada,North America,Montréal
+Vancouver,Canada,North America,
+Calgary,Canada,North America,
+Edmonton,Canada,North America,
+Ottawa,Canada,North America,
+Winnipeg,Canada,North America,
+Quebec City,Canada,North America,Québec
+Halifax,Canada,North America,
+Victoria,Canada,North America,
+Mexico City,Mexico,North America,Ciudad de México/CDMX
+Guadalajara,Mexico,North America,
+Monterrey,Mexico,North America,
+Puebla,Mexico,North America,
+Tijuana,Mexico,North America,
+Leon,Mexico,North America,León
+Ciudad Juarez,Mexico,North America,Ciudad Juárez
+Cancun,Mexico,North America,Cancún
+Merida,Mexico,North America,Mérida
+Havana,Cuba,North America,La Habana
+Santo Domingo,Dominican Republic,North America,
+San Juan,Puerto Rico,North America,
+Port-au-Prince,Haiti,North America,
+Kingston,Jamaica,North America,
+Guatemala City,Guatemala,North America,Ciudad de Guatemala
+San Salvador,El Salvador,North America,
+Tegucigalpa,Honduras,North America,
+Managua,Nicaragua,North America,
+San Jose,Costa Rica,North America,San José
+Panama City,Panama,North America,Ciudad de Panamá
+Sao Paulo,Brazil,South America,São Paulo
+Rio de Janeiro,Brazil,South America,
+Brasilia,Brazil,South America,Brasília
+Salvador,Brazil,South America,
+Fortaleza,Brazil,South America,
+Belo Horizonte,Brazil,South America,
+Manaus,Brazil,South America,
+Curitiba,Brazil,South America,
+Recife,Brazil,South America,
+Porto Alegre,Brazil,South America,
+Belem,Brazil,South America,Belém
+Buenos Aires,Argentina,South America,
+Cordoba,Argentina,South America,Córdoba
+Rosario,Argentina,South America,
+Mendoza,Argentina,South America,
+Lima,Peru,South America,
+Bogota,Colombia,South America,Bogotá
+Medellin,Colombia,South America,Medellín
+Cali,Colombia,South America,
+Barranquilla,Colombia,South America,
+Cartagena,Colombia,South America,
+Santiago,Chile,South America,
+Valparaiso,Chile,South America,Valparaíso
+Caracas,Venezuela,South America,
+Maracaibo,Venezuela,South America,
+Quito,Ecuador,South America,
+Guayaquil,Ecuador,South America,
+La Paz,Bolivia,South America,
+Santa Cruz de la Sierra,Bolivia,South America,
+Montevideo,Uruguay,South America,
+Asuncion,Paraguay,South America,Asunción
+Georgetown,Guyana,South America,
+Paramaribo,Suriname,South America,
+Sydney,Australia,Oceania,
+Melbourne,Australia,Oceania,
+Brisbane,Australia,Oceania,
+Perth,Australia,Oceania,
+Adelaide,Australia,Oceania,
+Canberra,Australia,Oceania,
+Gold Coast,Australia,Oceania,
+Hobart,Australia,Oceania,
+Darwin,Australia,Oceania,
+Auckland,New Zealand,Oceania,
+Wellington,New Zealand,Oceania,
+Christchurch,New Zealand,Oceania,
+Suva,Fiji,Oceania,
+Port Moresby,Papua New Guinea,Oceania,

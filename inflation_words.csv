@@ -1,0 +1,243 @@
+keyword,category,tier
+inflation,general,core
+disinflation,general,core
+deflation,general,core
+hyperinflation,general,core
+stagflation,general,core
+inflationary,general,core
+deflationary,general,core
+reflation,general,core
+shrinkflation,general,core
+greedflation,general,core
+skimpflation,general,core
+transitory inflation,general,core
+underlying inflation,general,core
+headline inflation,general,core
+runaway inflation,general,core
+demand-pull inflation,general,core
+demand pull inflation,general,core
+cost-push inflation,general,core
+cost push inflation,general,core
+built-in inflation,general,core
+built in inflation,general,core
+core inflation,general,core
+wage-price spiral,general,core
+wage price spiral,general,core
+inflation expectations,general,core
+inflation target,general,core
+inflation rate,general,core
+price stability,general,core
+price level,general,core
+CPI,price measurement,core
+consumer price index,price measurement,core
+PPI,price measurement,core
+producer price index,price measurement,core
+PCE,price measurement,core
+personal consumption expenditures,price measurement,core
+core PCE,price measurement,core
+core CPI,price measurement,core
+GDP deflator,price measurement,core
+consumer prices,price measurement,core
+wholesale prices,price measurement,core
+import prices,price measurement,core
+export prices,price measurement,core
+cost of living,price measurement,core
+purchasing power,price measurement,core
+real wages,price measurement,related
+nominal wages,price measurement,related
+price index,price measurement,core
+price increases,prices and costs,core
+price hikes,prices and costs,core
+rising prices,prices and costs,core
+higher prices,prices and costs,core
+soaring prices,prices and costs,core
+surging prices,prices and costs,core
+skyrocketing prices,prices and costs,core
+record prices,prices and costs,core
+sticker shock,prices and costs,core
+price gouging,prices and costs,related
+price controls,prices and costs,related
+price caps,prices and costs,related
+price ceiling,prices and costs,related
+price freeze,prices and costs,related
+rising costs,prices and costs,core
+higher costs,prices and costs,core
+cost increases,prices and costs,core
+input costs,prices and costs,related
+production costs,prices and costs,related
+labor costs,prices and costs,related
+unit labor costs,prices and costs,related
+operating costs,prices and costs,related
+overhead costs,prices and costs,contextual
+affordability,prices and costs,related
+unaffordable,prices and costs,related
+expensive,prices and costs,contextual
+overpriced,prices and costs,related
+grocery prices,sector prices,core
+food prices,sector prices,core
+gas prices,sector prices,core
+gasoline prices,sector prices,core
+fuel prices,sector prices,core
+energy prices,sector prices,core
+oil prices,sector prices,related
+electricity prices,sector prices,related
+utility bills,sector prices,related
+housing costs,sector prices,core
+rent increases,sector prices,core
+rising rents,sector prices,core
+home prices,sector prices,core
+mortgage rates,sector prices,related
+health care costs,sector prices,related
+medical costs,sector prices,related
+prescription drug prices,sector prices,related
+tuition costs,sector prices,related
+childcare costs,sector prices,related
+auto prices,sector prices,related
+car prices,sector prices,related
+used car prices,sector prices,related
+insurance premiums,sector prices,related
+shipping costs,sector prices,related
+freight costs,sector prices,related
+construction costs,sector prices,related
+raw material costs,sector prices,related
+Federal Reserve,monetary policy,core
+the Fed,monetary policy,core
+central bank,monetary policy,core
+FOMC,monetary policy,core
+interest rates,monetary policy,core
+rate hike,monetary policy,core
+rate cut,monetary policy,core
+rate increase,monetary policy,core
+rate decision,monetary policy,core
+basis points,monetary policy,related
+fed funds rate,monetary policy,core
+federal funds rate,monetary policy,core
+benchmark rate,monetary policy,related
+prime rate,monetary policy,related
+discount rate,monetary policy,related
+monetary policy,monetary policy,core
+monetary tightening,monetary policy,core
+monetary easing,monetary policy,core
+quantitative easing,monetary policy,core
+quantitative tightening,monetary policy,core
+QE,monetary policy,core
+QT,monetary policy,core
+money supply,monetary policy,related
+M1,monetary policy,related
+M2,monetary policy,related
+money printing,monetary policy,related
+currency devaluation,monetary policy,related
+dollar strength,monetary policy,contextual
+weak dollar,monetary policy,contextual
+fiscal policy,fiscal and government,related
+government spending,fiscal and government,related
+deficit spending,fiscal and government,related
+national debt,fiscal and government,related
+federal deficit,fiscal and government,related
+stimulus,fiscal and government,related
+stimulus checks,fiscal and government,related
+pandemic spending,fiscal and government,related
+relief package,fiscal and government,contextual
+bailout,fiscal and government,contextual
+tariffs,fiscal and government,related
+trade war,fiscal and government,related
+import duties,fiscal and government,related
+subsidies,fiscal and government,contextual
+tax policy,fiscal and government,contextual
+supply chain,supply and demand,core
+supply chain disruptions,supply and demand,core
+supply shortage,supply and demand,core
+shortage,supply and demand,related
+scarcity,supply and demand,related
+bottleneck,supply and demand,related
+backlog,supply and demand,related
+excess demand,supply and demand,related
+overheating,supply and demand,core
+overheated economy,supply and demand,core
+tight labor market,supply and demand,related
+labor shortage,supply and demand,related
+worker shortage,supply and demand,related
+supply constraints,supply and demand,related
+demand surge,supply and demand,related
+pent-up demand,supply and demand,related
+commodity prices,supply and demand,related
+recession,economic conditions,related
+economic slowdown,economic conditions,related
+economic growth,economic conditions,contextual
+GDP,economic conditions,contextual
+unemployment,economic conditions,related
+employment,economic conditions,contextual
+jobs report,economic conditions,related
+nonfarm payrolls,economic conditions,related
+wage growth,economic conditions,core
+wages rising,economic conditions,core
+salary increases,economic conditions,related
+minimum wage,economic conditions,related
+real income,economic conditions,core
+disposable income,economic conditions,related
+household income,economic conditions,related
+consumer spending,economic conditions,related
+consumer confidence,economic conditions,related
+consumer sentiment,economic conditions,related
+economic outlook,economic conditions,contextual
+cost of living adjustment,consumer impact,core
+COLA,consumer impact,core
+standard of living,consumer impact,related
+buying power,consumer impact,core
+eroding purchasing power,consumer impact,core
+paycheck,consumer impact,contextual
+budget squeeze,consumer impact,related
+household budget,consumer impact,contextual
+belt tightening,consumer impact,related
+making ends meet,consumer impact,related
+financial hardship,consumer impact,related
+financial strain,consumer impact,related
+pinched,consumer impact,contextual
+squeezed,consumer impact,contextual
+priced out,consumer impact,related
+stagnant wages,consumer impact,core
+real earnings,consumer impact,core
+falling behind,consumer impact,contextual
+dollar doesn't go as far,consumer impact,related
+stretch a dollar,consumer impact,contextual
+savings eroded,consumer impact,related
+Treasury yields,financial markets,related
+bond yields,financial markets,related
+yield curve,financial markets,contextual
+TIPS,financial markets,core
+breakeven inflation,financial markets,core
+inflation hedge,financial markets,related
+gold prices,financial markets,contextual
+real returns,financial markets,related
+real interest rates,financial markets,core
+nominal interest rates,financial markets,related
+inflation swap,financial markets,related
+inflation-linked bonds,financial markets,related
+BLS,institutions and data,core
+Bureau of Labor Statistics,institutions and data,core
+BEA,institutions and data,related
+Bureau of Economic Analysis,institutions and data,related
+Federal Reserve Board,institutions and data,core
+Jerome Powell,institutions and data,related
+Fed Chair,institutions and data,related
+Treasury Department,institutions and data,contextual
+Treasury Secretary,institutions and data,contextual
+ECB,institutions and data,related
+Bank of England,institutions and data,contextual
+IMF,institutions and data,contextual
+World Bank,institutions and data,contextual
+Phillips curve,economic theory,related
+quantity theory of money,economic theory,contextual
+velocity of money,economic theory,contextual
+output gap,economic theory,related
+natural rate of unemployment,economic theory,contextual
+NAIRU,economic theory,related
+inflation targeting,economic theory,core
+dual mandate,economic theory,related
+two percent target,economic theory,core
+2% target,economic theory,core
+2 percent target,economic theory,core
+Taylor rule,economic theory,contextual
+expectations anchoring,economic theory,related
+deanchored expectations,economic theory,core
+rational expectations,economic theory,contextual

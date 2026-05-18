@@ -1,0 +1,758 @@
+keyword,category,tier
+sick,general health,core
+ill,general health,core
+unwell,general health,core
+under the weather,general health,core
+not feeling well,general health,core
+feeling crummy,general health,core
+feeling lousy,general health,core
+feeling off,general health,related
+feeling rough,general health,related
+run down,general health,core
+worn out,general health,related
+wiped out,general health,related
+bedridden,general health,core
+laid up,general health,core
+out of commission,general health,related
+down with something,general health,core
+coming down with something,general health,core
+caught something,general health,related
+fighting something off,general health,related
+bug going around,general health,related
+recovering,general health,related
+on the mend,general health,related
+relapse,general health,core
+flare-up,general health,core
+flare up,general health,core
+chronic,general health,core
+acute,general health,related
+terminal,general health,core
+life-threatening,general health,core
+pre-existing condition,general health,core
+comorbidity,general health,related
+diagnosis,general health,core
+diagnosed,general health,core
+misdiagnosis,general health,related
+prognosis,general health,related
+in remission,general health,core
+symptoms,general health,core
+symptomatic,general health,core
+asymptomatic,general health,related
+headache,symptoms colloquial,core
+migraine,symptoms colloquial,core
+head is pounding,symptoms colloquial,core
+splitting headache,symptoms colloquial,core
+head is killing me,symptoms colloquial,core
+stomachache,symptoms colloquial,core
+stomach ache,symptoms colloquial,core
+tummy ache,symptoms colloquial,core
+upset stomach,symptoms colloquial,core
+stomach bug,symptoms colloquial,core
+stomach flu,symptoms colloquial,core
+queasy,symptoms colloquial,core
+nauseous,symptoms colloquial,core
+nausea,symptoms colloquial,core
+feeling sick to my stomach,symptoms colloquial,core
+throwing up,symptoms colloquial,core
+throw up,symptoms colloquial,core
+puking,symptoms colloquial,core
+vomiting,symptoms colloquial,core
+barfing,symptoms colloquial,related
+dry heaving,symptoms colloquial,related
+the runs,symptoms colloquial,core
+diarrhea,symptoms colloquial,core
+constipated,symptoms colloquial,core
+constipation,symptoms colloquial,core
+bloated,symptoms colloquial,core
+bloating,symptoms colloquial,core
+gassy,symptoms colloquial,related
+indigestion,symptoms colloquial,core
+heartburn,symptoms colloquial,core
+acid reflux,symptoms colloquial,core
+sore throat,symptoms colloquial,core
+scratchy throat,symptoms colloquial,core
+strep throat,symptoms colloquial,core
+swollen glands,symptoms colloquial,core
+stuffy nose,symptoms colloquial,core
+runny nose,symptoms colloquial,core
+stuffed up,symptoms colloquial,core
+congested,symptoms colloquial,core
+congestion,symptoms colloquial,core
+sniffles,symptoms colloquial,related
+sneezing,symptoms colloquial,core
+cough,symptoms colloquial,core
+coughing,symptoms colloquial,core
+hacking cough,symptoms colloquial,related
+chest cold,symptoms colloquial,related
+head cold,symptoms colloquial,related
+phlegm,symptoms colloquial,related
+mucus,symptoms colloquial,related
+wheezing,symptoms colloquial,core
+short of breath,symptoms colloquial,core
+shortness of breath,symptoms colloquial,core
+can't breathe,symptoms colloquial,core
+hard to breathe,symptoms colloquial,core
+out of breath,symptoms colloquial,related
+winded,symptoms colloquial,related
+dizzy,symptoms colloquial,core
+dizziness,symptoms colloquial,core
+dizzy spell,symptoms colloquial,core
+lightheaded,symptoms colloquial,core
+light-headed,symptoms colloquial,core
+vertigo,symptoms colloquial,core
+room is spinning,symptoms colloquial,core
+fainted,symptoms colloquial,core
+passed out,symptoms colloquial,core
+blacked out,symptoms colloquial,related
+fever,symptoms colloquial,core
+temperature,symptoms colloquial,related
+burning up,symptoms colloquial,core
+chills,symptoms colloquial,core
+cold sweats,symptoms colloquial,core
+night sweats,symptoms colloquial,core
+sweating,symptoms colloquial,related
+hot flash,symptoms colloquial,core
+hot flashes,symptoms colloquial,core
+achy,symptoms colloquial,core
+body aches,symptoms colloquial,core
+aches and pains,symptoms colloquial,core
+sore,symptoms colloquial,related
+soreness,symptoms colloquial,related
+stiff,symptoms colloquial,related
+stiffness,symptoms colloquial,related
+cramping,symptoms colloquial,core
+cramps,symptoms colloquial,core
+muscle cramp,symptoms colloquial,core
+charley horse,symptoms colloquial,related
+pulled muscle,symptoms colloquial,related
+spasm,symptoms colloquial,related
+twitching,symptoms colloquial,related
+numbness,symptoms colloquial,core
+tingling,symptoms colloquial,core
+pins and needles,symptoms colloquial,core
+swelling,symptoms colloquial,core
+swollen,symptoms colloquial,core
+puffy,symptoms colloquial,related
+inflamed,symptoms colloquial,core
+inflammation,symptoms colloquial,core
+rash,symptoms colloquial,core
+hives,symptoms colloquial,core
+itchy,symptoms colloquial,core
+itching,symptoms colloquial,core
+breakout,symptoms colloquial,related
+blister,symptoms colloquial,related
+bruise,symptoms colloquial,related
+lump,symptoms colloquial,core
+bump,symptoms colloquial,related
+growth,symptoms colloquial,related
+bleeding,symptoms colloquial,core
+blood,symptoms colloquial,contextual
+bloody nose,symptoms colloquial,related
+nosebleed,symptoms colloquial,related
+chest pain,symptoms colloquial,core
+chest tightness,symptoms colloquial,core
+heart palpitations,symptoms colloquial,core
+racing heart,symptoms colloquial,core
+irregular heartbeat,symptoms colloquial,core
+skipped a beat,symptoms colloquial,related
+tired,fatigue and energy,core
+exhausted,fatigue and energy,core
+fatigued,fatigue and energy,core
+fatigue,fatigue and energy,core
+chronic fatigue,fatigue and energy,core
+no energy,fatigue and energy,core
+low energy,fatigue and energy,core
+drained,fatigue and energy,core
+sluggish,fatigue and energy,core
+lethargic,fatigue and energy,core
+brain fog,fatigue and energy,core
+foggy,fatigue and energy,related
+can't concentrate,fatigue and energy,related
+can't focus,fatigue and energy,related
+groggy,fatigue and energy,related
+zombie mode,fatigue and energy,related
+running on empty,fatigue and energy,related
+burnout,fatigue and energy,core
+burned out,fatigue and energy,core
+burnt out,fatigue and energy,core
+worn down,fatigue and energy,related
+dead tired,fatigue and energy,related
+bone tired,fatigue and energy,related
+insomnia,sleep,core
+can't sleep,sleep,core
+trouble sleeping,sleep,core
+sleep problems,sleep,core
+sleep issues,sleep,core
+sleepless,sleep,core
+tossing and turning,sleep,related
+restless,sleep,related
+sleep deprived,sleep,core
+sleep deprivation,sleep,core
+sleep apnea,sleep,core
+snoring,sleep,related
+oversleeping,sleep,related
+nightmares,sleep,related
+night terrors,sleep,related
+melatonin,sleep,related
+sleeping pills,sleep,related
+anxious,mental health colloquial,core
+anxiety,mental health colloquial,core
+panic attack,mental health colloquial,core
+panic attacks,mental health colloquial,core
+anxiety attack,mental health colloquial,core
+having a panic attack,mental health colloquial,core
+depressed,mental health colloquial,core
+depression,mental health colloquial,core
+feeling down,mental health colloquial,core
+feeling low,mental health colloquial,core
+feeling empty,mental health colloquial,related
+hopeless,mental health colloquial,core
+helpless,mental health colloquial,related
+worthless,mental health colloquial,related
+numb,mental health colloquial,related
+emotionally numb,mental health colloquial,core
+stressed,mental health colloquial,core
+stressed out,mental health colloquial,core
+stress,mental health colloquial,core
+overwhelmed,mental health colloquial,core
+can't cope,mental health colloquial,core
+coping,mental health colloquial,related
+spiraling,mental health colloquial,core
+in a dark place,mental health colloquial,core
+rock bottom,mental health colloquial,related
+breaking point,mental health colloquial,related
+mental breakdown,mental health colloquial,core
+nervous breakdown,mental health colloquial,core
+emotional breakdown,mental health colloquial,core
+losing it,mental health colloquial,related
+falling apart,mental health colloquial,related
+triggered,mental health colloquial,core
+trigger warning,mental health colloquial,related
+PTSD,mental health colloquial,core
+trauma,mental health colloquial,core
+traumatic,mental health colloquial,core
+flashback,mental health colloquial,related
+intrusive thoughts,mental health colloquial,core
+OCD,mental health colloquial,core
+obsessive,mental health colloquial,related
+compulsive,mental health colloquial,related
+bipolar,mental health colloquial,core
+manic,mental health colloquial,core
+mania,mental health colloquial,core
+mood swings,mental health colloquial,core
+mood disorder,mental health colloquial,core
+ADHD,mental health colloquial,core
+ADD,mental health colloquial,core
+attention deficit,mental health colloquial,core
+can't focus,mental health colloquial,related
+executive dysfunction,mental health colloquial,core
+neurodivergent,mental health colloquial,core
+on the spectrum,mental health colloquial,related
+autism,mental health colloquial,core
+autistic,mental health colloquial,core
+sensory overload,mental health colloquial,related
+dissociation,mental health colloquial,core
+dissociating,mental health colloquial,core
+derealization,mental health colloquial,related
+depersonalization,mental health colloquial,related
+self-harm,mental health colloquial,core
+self harm,mental health colloquial,core
+cutting,mental health colloquial,related
+suicidal,mental health colloquial,core
+suicidal thoughts,mental health colloquial,core
+suicide,mental health colloquial,core
+mental health,mental health colloquial,core
+mental illness,mental health colloquial,core
+mental health day,mental health colloquial,related
+therapy,mental health colloquial,core
+therapist,mental health colloquial,core
+counseling,mental health colloquial,core
+counselor,mental health colloquial,core
+psychologist,mental health colloquial,related
+psychiatrist,mental health colloquial,related
+psych meds,mental health colloquial,related
+antidepressants,mental health colloquial,core
+antidepressant,mental health colloquial,core
+SSRIs,mental health colloquial,related
+Zoloft,mental health colloquial,related
+Lexapro,mental health colloquial,related
+Prozac,mental health colloquial,related
+Xanax,mental health colloquial,related
+Adderall,mental health colloquial,related
+eating disorder,eating and body,core
+anorexia,eating and body,core
+anorexic,eating and body,core
+bulimia,eating and body,core
+bulimic,eating and body,core
+binge eating,eating and body,core
+bingeing,eating and body,related
+purging,eating and body,core
+body dysmorphia,eating and body,core
+body image,eating and body,related
+disordered eating,eating and body,core
+orthorexia,eating and body,related
+food restriction,eating and body,related
+calorie counting,eating and body,contextual
+body shaming,eating and body,related
+flu,common illnesses,core
+influenza,common illnesses,core
+cold,common illnesses,related
+common cold,common illnesses,core
+COVID,common illnesses,core
+covid,common illnesses,core
+COVID-19,common illnesses,core
+long COVID,common illnesses,core
+long covid,common illnesses,core
+coronavirus,common illnesses,core
+RSV,common illnesses,related
+pneumonia,common illnesses,core
+bronchitis,common illnesses,core
+sinus infection,common illnesses,core
+sinusitis,common illnesses,core
+ear infection,common illnesses,core
+UTI,common illnesses,core
+urinary tract infection,common illnesses,core
+yeast infection,common illnesses,core
+pink eye,common illnesses,related
+mono,common illnesses,related
+strep,common illnesses,core
+staph,common illnesses,related
+MRSA,common illnesses,related
+food poisoning,common illnesses,core
+allergies,common illnesses,core
+allergy,common illnesses,core
+allergic reaction,common illnesses,core
+hay fever,common illnesses,core
+seasonal allergies,common illnesses,core
+anaphylaxis,common illnesses,core
+asthma,common illnesses,core
+asthma attack,common illnesses,core
+diabetes,chronic conditions,core
+diabetic,chronic conditions,core
+type 1 diabetes,chronic conditions,core
+type 2 diabetes,chronic conditions,core
+blood sugar,chronic conditions,core
+insulin,chronic conditions,core
+A1C,chronic conditions,related
+high blood pressure,chronic conditions,core
+hypertension,chronic conditions,core
+low blood pressure,chronic conditions,related
+high cholesterol,chronic conditions,core
+cholesterol,chronic conditions,related
+heart disease,chronic conditions,core
+heart failure,chronic conditions,core
+heart attack,chronic conditions,core
+stroke,chronic conditions,core
+blood clot,chronic conditions,core
+DVT,chronic conditions,related
+cancer,chronic conditions,core
+tumor,chronic conditions,core
+chemo,chronic conditions,core
+chemotherapy,chronic conditions,core
+radiation,chronic conditions,related
+oncologist,chronic conditions,related
+in remission,chronic conditions,core
+terminal,chronic conditions,core
+malignant,chronic conditions,related
+benign,chronic conditions,related
+biopsy,chronic conditions,related
+arthritis,chronic conditions,core
+fibromyalgia,chronic conditions,core
+lupus,chronic conditions,core
+autoimmune,chronic conditions,core
+autoimmune disease,chronic conditions,core
+Crohn's,chronic conditions,core
+IBS,chronic conditions,core
+irritable bowel,chronic conditions,core
+celiac,chronic conditions,related
+colitis,chronic conditions,related
+COPD,chronic conditions,core
+emphysema,chronic conditions,related
+epilepsy,chronic conditions,core
+seizure,chronic conditions,core
+seizures,chronic conditions,core
+MS,chronic conditions,related
+multiple sclerosis,chronic conditions,core
+Parkinson's,chronic conditions,core
+Alzheimer's,chronic conditions,core
+dementia,chronic conditions,core
+kidney disease,chronic conditions,core
+dialysis,chronic conditions,core
+liver disease,chronic conditions,related
+cirrhosis,chronic conditions,related
+thyroid,chronic conditions,core
+hypothyroid,chronic conditions,core
+hyperthyroid,chronic conditions,core
+Hashimoto's,chronic conditions,related
+PCOS,chronic conditions,related
+endometriosis,chronic conditions,core
+chronic pain,pain,core
+pain management,pain,core
+pain relief,pain,core
+painkiller,pain,core
+painkillers,pain,core
+pain meds,pain,core
+back pain,pain,core
+lower back pain,pain,core
+neck pain,pain,core
+joint pain,pain,core
+knee pain,pain,related
+hip pain,pain,related
+shoulder pain,pain,related
+nerve pain,pain,core
+sciatica,pain,core
+throbbing,pain,related
+stabbing pain,pain,related
+shooting pain,pain,related
+dull ache,pain,related
+sharp pain,pain,related
+tender,pain,related
+sore to the touch,pain,related
+hurts to move,pain,related
+can barely walk,pain,related
+Tylenol,pain,related
+Advil,pain,related
+ibuprofen,pain,core
+acetaminophen,pain,core
+aspirin,pain,related
+naproxen,pain,related
+Aleve,pain,related
+opioids,pain,core
+prescription,medication and treatment,core
+medication,medication and treatment,core
+medicine,medication and treatment,core
+meds,medication and treatment,core
+on medication,medication and treatment,core
+over the counter,medication and treatment,core
+OTC,medication and treatment,core
+side effects,medication and treatment,core
+adverse reaction,medication and treatment,core
+drug interaction,medication and treatment,related
+dosage,medication and treatment,core
+dose,medication and treatment,related
+refill,medication and treatment,related
+generic,medication and treatment,related
+brand name,medication and treatment,contextual
+antibiotics,medication and treatment,core
+antibiotic,medication and treatment,core
+antibiotic resistance,medication and treatment,related
+antihistamine,medication and treatment,related
+steroid,medication and treatment,related
+steroids,medication and treatment,related
+prednisone,medication and treatment,related
+inhaler,medication and treatment,related
+EpiPen,medication and treatment,related
+blood thinner,medication and treatment,related
+statin,medication and treatment,related
+supplement,medication and treatment,related
+supplements,medication and treatment,related
+vitamins,medication and treatment,related
+probiotics,medication and treatment,related
+vaccine,medication and treatment,core
+vaccination,medication and treatment,core
+vaccinated,medication and treatment,core
+booster,medication and treatment,related
+shot,medication and treatment,contextual
+immunization,medication and treatment,core
+flu shot,medication and treatment,core
+anti-vaxx,medication and treatment,related
+vaxxed,medication and treatment,related
+doctor,healthcare system,core
+doc,healthcare system,related
+physician,healthcare system,core
+nurse,healthcare system,core
+specialist,healthcare system,related
+surgeon,healthcare system,related
+primary care,healthcare system,core
+PCP,healthcare system,related
+urgent care,healthcare system,core
+ER,healthcare system,core
+emergency room,healthcare system,core
+emergency department,healthcare system,core
+hospital,healthcare system,core
+hospitalized,healthcare system,core
+admitted,healthcare system,related
+discharged,healthcare system,related
+ICU,healthcare system,core
+intensive care,healthcare system,core
+clinic,healthcare system,core
+appointment,healthcare system,related
+checkup,healthcare system,core
+check-up,healthcare system,core
+physical,healthcare system,related
+annual physical,healthcare system,related
+screening,healthcare system,core
+blood work,healthcare system,core
+blood test,healthcare system,core
+lab results,healthcare system,core
+test results,healthcare system,core
+X-ray,healthcare system,related
+MRI,healthcare system,related
+CT scan,healthcare system,related
+ultrasound,healthcare system,related
+mammogram,healthcare system,related
+colonoscopy,healthcare system,related
+surgery,healthcare system,core
+operation,healthcare system,related
+outpatient,healthcare system,related
+inpatient,healthcare system,related
+referral,healthcare system,related
+second opinion,healthcare system,related
+copay,healthcare system,related
+deductible,healthcare system,related
+health insurance,healthcare system,core
+out of pocket,healthcare system,related
+covered,healthcare system,contextual
+pre-authorization,healthcare system,related
+telehealth,healthcare system,core
+telemedicine,healthcare system,core
+virtual visit,healthcare system,related
+addiction,substance use,core
+addict,substance use,core
+addicted,substance use,core
+substance abuse,substance use,core
+substance use disorder,substance use,core
+alcoholism,substance use,core
+alcoholic,substance use,core
+drinking problem,substance use,core
+sober,substance use,core
+sobriety,substance use,core
+recovery,substance use,related
+relapse,substance use,core
+clean,substance use,contextual
+withdrawal,substance use,core
+withdrawals,substance use,core
+detox,substance use,core
+rehab,substance use,core
+rehabilitation,substance use,related
+12-step,substance use,related
+AA,substance use,related
+NA,substance use,related
+overdose,substance use,core
+OD,substance use,core
+OD'd,substance use,core
+opioid crisis,substance use,core
+opioid epidemic,substance use,core
+fentanyl,substance use,core
+heroin,substance use,core
+meth,substance use,core
+cocaine,substance use,related
+weed,substance use,contextual
+marijuana,substance use,related
+edibles,substance use,contextual
+vaping,substance use,related
+nicotine,substance use,related
+smoking,substance use,related
+quit smoking,substance use,related
+Narcan,substance use,core
+naloxone,substance use,core
+methadone,substance use,related
+suboxone,substance use,related
+binge drinking,substance use,core
+blackout drunk,substance use,related
+hungover,substance use,related
+hangover,substance use,related
+DUI,substance use,contextual
+pregnant,reproductive health,core
+pregnancy,reproductive health,core
+expecting,reproductive health,related
+prenatal,reproductive health,core
+postnatal,reproductive health,core
+postpartum,reproductive health,core
+postpartum depression,reproductive health,core
+miscarriage,reproductive health,core
+stillbirth,reproductive health,core
+fertility,reproductive health,core
+infertility,reproductive health,core
+IVF,reproductive health,core
+trying to conceive,reproductive health,core
+TTC,reproductive health,core
+ovulation,reproductive health,related
+birth control,reproductive health,core
+contraception,reproductive health,core
+the pill,reproductive health,related
+IUD,reproductive health,related
+Plan B,reproductive health,related
+morning sickness,reproductive health,core
+due date,reproductive health,related
+trimester,reproductive health,related
+C-section,reproductive health,related
+labor,reproductive health,contextual
+delivery,reproductive health,contextual
+breastfeeding,reproductive health,related
+nursing,reproductive health,contextual
+period,reproductive health,related
+menstrual,reproductive health,core
+menstruation,reproductive health,core
+PMS,reproductive health,core
+cramps,reproductive health,related
+irregular period,reproductive health,related
+heavy period,reproductive health,related
+menopause,reproductive health,core
+perimenopause,reproductive health,core
+STD,reproductive health,core
+STI,reproductive health,core
+sexually transmitted,reproductive health,core
+HPV,reproductive health,related
+herpes,reproductive health,related
+chlamydia,reproductive health,related
+gonorrhea,reproductive health,related
+Pap smear,reproductive health,related
+wellness,wellness and lifestyle,core
+well-being,wellness and lifestyle,core
+wellbeing,wellness and lifestyle,core
+self-care,wellness and lifestyle,core
+holistic,wellness and lifestyle,related
+mind-body,wellness and lifestyle,related
+mindfulness,wellness and lifestyle,related
+meditation,wellness and lifestyle,related
+yoga,wellness and lifestyle,contextual
+gut health,wellness and lifestyle,core
+immune system,wellness and lifestyle,core
+immune boost,wellness and lifestyle,related
+immunity,wellness and lifestyle,related
+anti-inflammatory,wellness and lifestyle,core
+antioxidant,wellness and lifestyle,related
+superfood,wellness and lifestyle,related
+clean eating,wellness and lifestyle,related
+plant-based,wellness and lifestyle,contextual
+gluten-free,wellness and lifestyle,related
+organic,wellness and lifestyle,contextual
+detox,wellness and lifestyle,related
+cleanse,wellness and lifestyle,related
+juice cleanse,wellness and lifestyle,related
+hydration,wellness and lifestyle,related
+dehydrated,wellness and lifestyle,core
+electrolytes,wellness and lifestyle,related
+BMI,wellness and lifestyle,related
+body mass index,wellness and lifestyle,related
+weight loss,wellness and lifestyle,core
+weight gain,wellness and lifestyle,core
+obesity,wellness and lifestyle,core
+obese,wellness and lifestyle,core
+overweight,wellness and lifestyle,core
+underweight,wellness and lifestyle,related
+nutrition,wellness and lifestyle,core
+nutritionist,wellness and lifestyle,related
+dietitian,wellness and lifestyle,related
+diet,wellness and lifestyle,contextual
+exercise,wellness and lifestyle,contextual
+fitness,wellness and lifestyle,contextual
+physical therapy,wellness and lifestyle,core
+PT,wellness and lifestyle,contextual
+chiropractor,wellness and lifestyle,related
+acupuncture,wellness and lifestyle,related
+naturopath,wellness and lifestyle,related
+functional medicine,wellness and lifestyle,related
+integrative medicine,wellness and lifestyle,related
+alternative medicine,wellness and lifestyle,core
+home remedy,wellness and lifestyle,related
+home remedies,wellness and lifestyle,related
+essential oils,wellness and lifestyle,related
+herbal,wellness and lifestyle,related
+injury,injuries and first aid,core
+injured,injuries and first aid,core
+hurt,injuries and first aid,contextual
+wound,injuries and first aid,core
+cut,injuries and first aid,contextual
+scrape,injuries and first aid,related
+stitches,injuries and first aid,core
+staples,injuries and first aid,related
+broken bone,injuries and first aid,core
+fracture,injuries and first aid,core
+sprain,injuries and first aid,core
+strain,injuries and first aid,related
+torn ligament,injuries and first aid,core
+ACL,injuries and first aid,related
+concussion,injuries and first aid,core
+head injury,injuries and first aid,core
+whiplash,injuries and first aid,related
+burn,injuries and first aid,related
+sunburn,injuries and first aid,related
+frostbite,injuries and first aid,related
+allergic reaction,injuries and first aid,core
+bee sting,injuries and first aid,related
+first aid,injuries and first aid,core
+CPR,injuries and first aid,core
+AED,injuries and first aid,related
+choking,injuries and first aid,related
+Heimlich,injuries and first aid,related
+tourniquet,injuries and first aid,related
+splint,injuries and first aid,related
+cast,injuries and first aid,related
+crutches,injuries and first aid,related
+sling,injuries and first aid,related
+disability,disability and accessibility,core
+disabled,disability and accessibility,core
+handicapped,disability and accessibility,related
+accessible,disability and accessibility,related
+accessibility,disability and accessibility,related
+wheelchair,disability and accessibility,related
+mobility aid,disability and accessibility,related
+walker,disability and accessibility,related
+hearing aid,disability and accessibility,related
+deaf,disability and accessibility,core
+hard of hearing,disability and accessibility,core
+blind,disability and accessibility,core
+visually impaired,disability and accessibility,core
+chronic illness,disability and accessibility,core
+invisible illness,disability and accessibility,core
+spoonie,disability and accessibility,core
+spoon theory,disability and accessibility,related
+flare,disability and accessibility,related
+good days and bad days,disability and accessibility,related
+accommodation,disability and accessibility,related
+ADA,disability and accessibility,related
+service animal,disability and accessibility,related
+epidemic,public health,core
+pandemic,public health,core
+outbreak,public health,core
+quarantine,public health,core
+isolation,public health,related
+lockdown,public health,related
+social distancing,public health,related
+contact tracing,public health,related
+herd immunity,public health,related
+public health,public health,core
+CDC,public health,core
+WHO,public health,core
+FDA,public health,core
+NIH,public health,related
+health advisory,public health,related
+health warning,public health,related
+recall,public health,related
+contamination,public health,related
+food safety,public health,related
+water quality,public health,related
+air quality,public health,related
+secondhand smoke,public health,related
+carcinogen,public health,related
+toxic,public health,related
+toxin,public health,related
+lead poisoning,public health,related
+mold,public health,related
+asbestos,public health,related
+pediatrician,age-specific health,core
+pediatric,age-specific health,core
+children's health,age-specific health,core
+child development,age-specific health,related
+milestones,age-specific health,contextual
+teething,age-specific health,related
+colic,age-specific health,related
+SIDS,age-specific health,related
+geriatric,age-specific health,related
+elderly,age-specific health,related
+aging,age-specific health,core
+age-related,age-specific health,related
+senior health,age-specific health,related
+memory loss,age-specific health,core
+cognitive decline,age-specific health,core
+fall risk,age-specific health,related
+hip replacement,age-specific health,related
+knee replacement,age-specific health,related
+assisted living,age-specific health,related
+nursing home,age-specific health,related
+hospice,age-specific health,core
+palliative care,age-specific health,core
+end of life,age-specific health,core
+DNR,age-specific health,related

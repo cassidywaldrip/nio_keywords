@@ -4,10 +4,8 @@ Reference CSV files of keywords and names, one topic per file. The lists feed ne
 
 ## Conventions
 
-- One value per line, no header row, no quoting (no field currently contains a comma).
-- Column schema depends on file. `country_names.csv` uses `Name,EnglishCountry,Region` — column 2 always holds the canonical English country (Britannica's spelling) so every variant maps back. Other multi-column files use the simpler `value,category` shape until a richer schema is needed.
+- One value per line with header row
 - Names that have both a diacritic and a non-diacritic form appear as two paired rows — one of each — because source text uses both. Applies in both directions: if the source spells it `Côte d'Ivoire`, add `Cote d'Ivoire`; if the source spells it `Sao Tome and Principe`, add `São Tomé and Príncipe`.
-- Local names (forms in the country's own language) live alongside English names as additional rows, each mapped back to the same canonical English country in column 2. Native scripts are written as-is (e.g. `日本`, `العراق`, `Россия`); romanizations are not included. For multi-language countries, only the dominant local form is stored.
 
 ## Files
 

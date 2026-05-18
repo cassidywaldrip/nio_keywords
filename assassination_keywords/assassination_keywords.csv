@@ -1,0 +1,363 @@
+category,word
+assassination_direct,assassinate
+assassination_direct,assassinated
+assassination_direct,assassination
+assassination_direct,assassination attempt
+assassination_direct,assassination plot
+assassination_direct,assassin
+assassination_direct,assassins
+assassination_direct,attempted assassination
+assassination_direct,failed assassination
+assassination_direct,political assassination
+assassination_direct,targeted killing
+assassination_direct,targeted assassination
+assassination_direct,murder-for-hire
+assassination_direct,murder for hire
+assassination_direct,hit job
+assassination_direct,contract killing
+assassination_direct,hired killer
+assassination_direct,hitman
+assassination_direct,hit man
+attack_verbs,shoot
+attack_verbs,shot
+attack_verbs,shooting
+attack_verbs,shot at
+attack_verbs,opened fire
+attack_verbs,fire shots
+attack_verbs,fired shots
+attack_verbs,gunfire
+attack_verbs,gunshot
+attack_verbs,stab
+attack_verbs,stabbed
+attack_verbs,stabbing
+attack_verbs,attack
+attack_verbs,attacked
+attack_verbs,attacker
+attack_verbs,assailant
+attack_verbs,ambush
+attack_verbs,ambushed
+attack_verbs,bomb
+attack_verbs,bombed
+attack_verbs,bombing
+attack_verbs,detonate
+attack_verbs,detonated
+attack_verbs,explosion
+attack_verbs,exploded
+attack_verbs,blast
+attack_verbs,kill
+attack_verbs,killed
+attack_verbs,killing
+attack_verbs,murder
+attack_verbs,murdered
+attack_verbs,slain
+attack_verbs,slay
+attack_verbs,wound
+attack_verbs,wounded
+attack_verbs,injure
+attack_verbs,injured
+attack_verbs,graze
+attack_verbs,grazed
+attack_verbs,maim
+attack_verbs,maimed
+attack_verbs,poison
+attack_verbs,poisoned
+attack_verbs,poisoning
+attack_verbs,strangle
+attack_verbs,strangled
+weapons,gun
+weapons,firearm
+weapons,rifle
+weapons,AR-15
+weapons,handgun
+weapons,pistol
+weapons,revolver
+weapons,shotgun
+weapons,sniper
+weapons,sniper rifle
+weapons,weapon
+weapons,armed
+weapons,ammunition
+weapons,bullet
+weapons,bullets
+weapons,cartridge
+weapons,knife
+weapons,blade
+weapons,dagger
+weapons,sword
+weapons,machete
+weapons,explosive
+weapons,explosives
+weapons,bomb
+weapons,car bomb
+weapons,pipe bomb
+weapons,IED
+weapons,improvised explosive device
+weapons,suicide bomb
+weapons,suicide bomber
+weapons,suicide vest
+weapons,drone strike
+weapons,drone attack
+weapons,grenade
+weapons,rocket
+weapons,RPG
+weapons,missile
+weapons,nerve agent
+weapons,chemical weapon
+weapons,biological weapon
+weapons,Novichok
+weapons,ricin
+weapons,polonium
+weapons,anthrax
+coup_regime_change,coup
+coup_regime_change,coup d'etat
+coup_regime_change,coup d'état
+coup_regime_change,coup attempt
+coup_regime_change,attempted coup
+coup_regime_change,failed coup
+coup_regime_change,military coup
+coup_regime_change,self-coup
+coup_regime_change,autogolpe
+coup_regime_change,counter-coup
+coup_regime_change,countercoup
+coup_regime_change,putsch
+coup_regime_change,junta
+coup_regime_change,military junta
+coup_regime_change,overthrow
+coup_regime_change,overthrown
+coup_regime_change,topple
+coup_regime_change,toppled
+coup_regime_change,oust
+coup_regime_change,ousted
+coup_regime_change,ouster
+coup_regime_change,depose
+coup_regime_change,deposed
+coup_regime_change,regime change
+coup_regime_change,regime collapse
+coup_regime_change,power grab
+coup_regime_change,power seizure
+coup_regime_change,seize power
+coup_regime_change,seized power
+coup_regime_change,takeover
+coup_regime_change,military takeover
+coup_regime_change,insurrection
+coup_regime_change,insurgency
+coup_regime_change,insurgent
+coup_regime_change,insurgents
+coup_regime_change,uprising
+coup_regime_change,revolt
+coup_regime_change,rebellion
+coup_regime_change,mutiny
+coup_regime_change,mutinous
+coup_regime_change,sedition
+coup_regime_change,subvert
+coup_regime_change,subversion
+coup_regime_change,destabilize
+coup_regime_change,destabilization
+political_arrest_legal,arrest
+political_arrest_legal,arrested
+political_arrest_legal,detention
+political_arrest_legal,detained
+political_arrest_legal,detain
+political_arrest_legal,custody
+political_arrest_legal,taken into custody
+political_arrest_legal,handcuffed
+political_arrest_legal,indict
+political_arrest_legal,indicted
+political_arrest_legal,indictment
+political_arrest_legal,charged
+political_arrest_legal,criminal charges
+political_arrest_legal,arraign
+political_arrest_legal,arraigned
+political_arrest_legal,arraignment
+political_arrest_legal,prosecute
+political_arrest_legal,prosecuted
+political_arrest_legal,prosecution
+political_arrest_legal,trial
+political_arrest_legal,convicted
+political_arrest_legal,conviction
+political_arrest_legal,sentence
+political_arrest_legal,sentenced
+political_arrest_legal,imprisonment
+political_arrest_legal,imprisoned
+political_arrest_legal,jailed
+political_arrest_legal,incarcerated
+political_arrest_legal,extradite
+political_arrest_legal,extradited
+political_arrest_legal,extradition
+political_arrest_legal,warrant
+political_arrest_legal,arrest warrant
+political_arrest_legal,search warrant
+political_arrest_legal,house arrest
+political_arrest_legal,ankle monitor
+political_arrest_legal,bail
+political_arrest_legal,impeach
+political_arrest_legal,impeached
+political_arrest_legal,impeachment
+political_arrest_legal,removed from office
+political_arrest_legal,disqualified
+political_arrest_legal,banned from office
+political_arrest_legal,political persecution
+political_arrest_legal,witch hunt
+political_arrest_legal,political prisoner
+political_arrest_legal,prisoner of conscience
+political_violence_general,political violence
+political_violence_general,political killing
+political_violence_general,politically motivated
+political_violence_general,domestic terrorism
+political_violence_general,domestic terrorist
+political_violence_general,terrorism
+political_violence_general,terrorist
+political_violence_general,terrorist attack
+political_violence_general,terror plot
+political_violence_general,extremism
+political_violence_general,extremist
+political_violence_general,radicalized
+political_violence_general,radicalization
+political_violence_general,lone wolf
+political_violence_general,lone gunman
+political_violence_general,mass shooting
+political_violence_general,active shooter
+political_violence_general,rampage
+political_violence_general,hostage
+political_violence_general,kidnap
+political_violence_general,kidnapped
+political_violence_general,kidnapping
+political_violence_general,abduct
+political_violence_general,abducted
+political_violence_general,abduction
+political_violence_general,siege
+political_violence_general,stormed
+political_violence_general,breach
+political_violence_general,breached
+political_violence_general,riot
+political_violence_general,rioting
+political_violence_general,mob
+political_violence_general,civil unrest
+political_violence_general,violent protest
+political_violence_general,crackdown
+political_violence_general,martial law
+political_violence_general,state of emergency
+political_violence_general,curfew
+political_violence_general,lockdown
+security_terms,Secret Service
+security_terms,security detail
+security_terms,security failure
+security_terms,security breach
+security_terms,security lapse
+security_terms,security perimeter
+security_terms,bodyguard
+security_terms,protective detail
+security_terms,evacuated
+security_terms,evacuation
+security_terms,lockdown
+security_terms,swept the area
+security_terms,secured the area
+security_terms,counter-sniper
+security_terms,countersniper
+security_terms,counter assault team
+security_terms,intelligence failure
+security_terms,intelligence briefing
+security_terms,threat assessment
+security_terms,death threat
+security_terms,credible threat
+security_terms,security protocol
+security_terms,bulletproof
+security_terms,armored vehicle
+security_terms,safe room
+security_terms,bunker
+conspiracy_plot,conspiracy
+conspiracy_plot,conspirator
+conspiracy_plot,plot
+conspiracy_plot,plotting
+conspiracy_plot,plotted
+conspiracy_plot,scheme
+conspiracy_plot,mastermind
+conspiracy_plot,orchestrate
+conspiracy_plot,orchestrated
+conspiracy_plot,plan to kill
+conspiracy_plot,planned to kill
+conspiracy_plot,plot to assassinate
+conspiracy_plot,plot to kill
+conspiracy_plot,death squad
+conspiracy_plot,cover-up
+conspiracy_plot,coverup
+conspiracy_plot,false flag
+conspiracy_plot,inside job
+conspiracy_plot,complicit
+conspiracy_plot,accomplice
+conspiracy_plot,co-conspirator
+aftermath_investigation,investigation
+aftermath_investigation,investigated
+aftermath_investigation,probe
+aftermath_investigation,inquiry
+aftermath_investigation,FBI investigation
+aftermath_investigation,federal investigation
+aftermath_investigation,task force
+aftermath_investigation,independent review
+aftermath_investigation,commission
+aftermath_investigation,autopsy
+aftermath_investigation,forensic
+aftermath_investigation,ballistics
+aftermath_investigation,crime scene
+aftermath_investigation,evidence
+aftermath_investigation,suspect
+aftermath_investigation,suspected
+aftermath_investigation,perpetrator
+aftermath_investigation,gunman
+aftermath_investigation,shooter
+aftermath_investigation,assailant
+aftermath_investigation,attacker
+aftermath_investigation,motive
+aftermath_investigation,manifesto
+aftermath_investigation,radicalization
+aftermath_investigation,surveillance footage
+aftermath_investigation,eyewitness
+aftermath_investigation,testimony
+aftermath_investigation,accountability
+aftermath_investigation,resignation
+aftermath_investigation,resign
+aftermath_investigation,resigned
+historical_reference,Lincoln assassination
+historical_reference,JFK assassination
+historical_reference,Kennedy assassination
+historical_reference,Reagan assassination attempt
+historical_reference,Archduke Franz Ferdinand
+historical_reference,Shinzo Abe
+historical_reference,Benazir Bhutto
+historical_reference,Anwar Sadat
+historical_reference,Yitzhak Rabin
+historical_reference,Indira Gandhi
+historical_reference,Rajiv Gandhi
+historical_reference,Martin Luther King
+historical_reference,Robert Kennedy
+historical_reference,RFK
+historical_reference,Olof Palme
+historical_reference,Jovenel Moise
+historical_reference,Qasem Soleimani
+historical_reference,Osama bin Laden
+historical_reference,Abu Bakr al-Baghdadi
+historical_reference,Ismail Haniyeh
+international_operations,targeted strike
+international_operations,drone strike
+international_operations,airstrike
+international_operations,surgical strike
+international_operations,covert operation
+international_operations,clandestine operation
+international_operations,black ops
+international_operations,special operations
+international_operations,extrajudicial killing
+international_operations,extrajudicial execution
+international_operations,state-sponsored killing
+international_operations,state-sponsored assassination
+international_operations,proxy killing
+international_operations,intelligence operation
+international_operations,espionage
+international_operations,spy
+international_operations,double agent
+international_operations,defector
+international_operations,regime opponent
+international_operations,dissident
+international_operations,exile
+international_operations,political refugee
+international_operations,sanctions
+international_operations,act of war

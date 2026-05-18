@@ -1,0 +1,294 @@
+keyword,category,tier
+Iran war,conflict name,core
+2026 Iran war,conflict name,core
+Iran conflict,conflict name,core
+US-Iran war,conflict name,core
+Iran-Israel war,conflict name,core
+US-Israel war on Iran,conflict name,core
+war with Iran,conflict name,core
+war in Iran,conflict name,core
+war on Iran,conflict name,core
+Iran crisis,conflict name,core
+Middle East war,conflict name,core
+Middle East crisis,conflict name,core
+Middle East conflict,conflict name,related
+Middle Eastern crisis,conflict name,related
+Operation Epic Fury,conflict name,core
+Epic Fury,conflict name,core
+Iran airstrikes,military operations,core
+airstrikes on Iran,military operations,core
+airstrikes against Iran,military operations,core
+strikes on Iran,military operations,core
+bombing Iran,military operations,core
+bombing of Iran,military operations,core
+attack on Iran,military operations,core
+attacks on Iran,military operations,core
+Iran bombing,military operations,core
+Iran strikes,military operations,core
+Iran attacks,military operations,core
+Iran retaliation,military operations,core
+Iranian retaliation,military operations,core
+retaliatory strikes,military operations,related
+missile strikes,military operations,related
+drone strikes,military operations,related
+cruise missiles,military operations,related
+Tomahawk missiles,military operations,related
+HIMARS,military operations,related
+ballistic missiles,military operations,related
+Iranian missiles,military operations,core
+Iranian drones,military operations,core
+drone attacks,military operations,related
+missile attacks,military operations,related
+missile barrage,military operations,related
+air campaign,military operations,related
+air war,military operations,related
+bombardment,military operations,related
+sorties,military operations,contextual
+precision strikes,military operations,related
+targeted strikes,military operations,related
+military strikes,military operations,related
+ground invasion,military operations,related
+escalation,military operations,related
+military escalation,military operations,related
+de-escalation,military operations,related
+ceasefire,diplomacy and negotiations,core
+Iran ceasefire,diplomacy and negotiations,core
+ceasefire agreement,diplomacy and negotiations,core
+ceasefire violation,diplomacy and negotiations,core
+ceasefire extension,diplomacy and negotiations,core
+truce,diplomacy and negotiations,core
+temporary ceasefire,diplomacy and negotiations,core
+conditional ceasefire,diplomacy and negotiations,core
+Islamabad Talks,diplomacy and negotiations,core
+Islamabad negotiations,diplomacy and negotiations,core
+peace talks,diplomacy and negotiations,core
+Iran talks,diplomacy and negotiations,core
+Iran negotiations,diplomacy and negotiations,core
+Iran deal,diplomacy and negotiations,core
+nuclear deal,diplomacy and negotiations,core
+JCPOA,diplomacy and negotiations,core
+nuclear agreement,diplomacy and negotiations,related
+diplomatic solution,diplomacy and negotiations,related
+peace process,diplomacy and negotiations,related
+peace negotiations,diplomacy and negotiations,related
+Pakistan mediation,diplomacy and negotiations,core
+Pakistan mediator,diplomacy and negotiations,core
+five-point proposal,diplomacy and negotiations,core
+five-point initiative,diplomacy and negotiations,core
+counter-proposal,diplomacy and negotiations,related
+security guarantees,diplomacy and negotiations,related
+war reparations,diplomacy and negotiations,related
+sanctions relief,diplomacy and negotiations,related
+permanent settlement,diplomacy and negotiations,related
+Strait of Hormuz,maritime and blockade,core
+Hormuz,maritime and blockade,core
+Hormuz crisis,maritime and blockade,core
+Hormuz blockade,maritime and blockade,core
+Hormuz strait,maritime and blockade,core
+strait closure,maritime and blockade,core
+strait blockade,maritime and blockade,core
+maritime blockade,maritime and blockade,core
+naval blockade,maritime and blockade,core
+blockade of Iran,maritime and blockade,core
+Iranian blockade,maritime and blockade,core
+US blockade,maritime and blockade,core
+dual blockade,maritime and blockade,core
+counter-blockade,maritime and blockade,core
+shipping disruption,maritime and blockade,core
+shipping lanes,maritime and blockade,related
+shipping routes,maritime and blockade,related
+maritime security,maritime and blockade,related
+freedom of navigation,maritime and blockade,related
+maritime interdiction,maritime and blockade,core
+ship seizure,maritime and blockade,core
+ship boarding,maritime and blockade,core
+vessel interdiction,maritime and blockade,core
+merchant ships,maritime and blockade,related
+oil tankers,maritime and blockade,related
+tanker attacks,maritime and blockade,core
+sea mines,maritime and blockade,core
+mine clearance,maritime and blockade,core
+mine sweeping,maritime and blockade,related
+Persian Gulf,maritime and blockade,related
+Gulf of Oman,maritime and blockade,related
+chokepoint,maritime and blockade,related
+toll,maritime and blockade,contextual
+Iran toll,maritime and blockade,core
+shipping toll,maritime and blockade,related
+piracy,maritime and blockade,contextual
+CENTCOM,military institutions,core
+US Central Command,military institutions,core
+US Navy,military institutions,related
+Fifth Fleet,military institutions,related
+IRGC,military institutions,core
+Islamic Revolutionary Guard Corps,military institutions,core
+Revolutionary Guards,military institutions,core
+IRGC Navy,military institutions,core
+Iranian military,military institutions,core
+Iranian armed forces,military institutions,core
+IDF,military institutions,related
+Israeli military,military institutions,related
+Israeli Air Force,military institutions,related
+US military,military institutions,related
+Pentagon,military institutions,related
+Department of Defense,military institutions,contextual
+Iranian nuclear,nuclear program,core
+Iran nuclear,nuclear program,core
+nuclear program,nuclear program,core
+nuclear facilities,nuclear program,core
+nuclear sites,nuclear program,core
+nuclear weapons,nuclear program,related
+nuclear enrichment,nuclear program,core
+uranium enrichment,nuclear program,core
+enriched uranium,nuclear program,core
+nuclear capability,nuclear program,related
+nuclear proliferation,nuclear program,related
+nuclear threat,nuclear program,related
+nuclear ambitions,nuclear program,related
+nonproliferation,nuclear program,related
+Ali Khamenei,key figures,core
+Khamenei,key figures,core
+Supreme Leader,key figures,core
+assassination of Khamenei,key figures,core
+Khamenei assassination,key figures,core
+Mojtaba Khamenei,key figures,core
+Ali Larijani,key figures,core
+Masoud Pezeshkian,key figures,core
+Abbas Araghchi,key figures,core
+Mohammad Bagher Ghalibaf,key figures,core
+Ghalibaf,key figures,core
+Donald Trump,key figures,related
+Pete Hegseth,key figures,related
+JD Vance,key figures,related
+Jared Kushner,key figures,related
+Steve Witkoff,key figures,related
+Benjamin Netanyahu,key figures,related
+Netanyahu,key figures,related
+Brad Cooper,key figures,related
+Dan Caine,key figures,related
+Shehbaz Sharif,key figures,related
+Marco Rubio,key figures,contextual
+Scott Bessent,key figures,contextual
+Hezbollah,proxy forces and allies,core
+Houthis,proxy forces and allies,core
+Amal Movement,proxy forces and allies,core
+Popular Mobilization Forces,proxy forces and allies,core
+Islamic Resistance in Iraq,proxy forces and allies,core
+Iraqi militias,proxy forces and allies,core
+Iran-backed militias,proxy forces and allies,core
+Iran proxies,proxy forces and allies,core
+Iranian proxies,proxy forces and allies,core
+pro-Iranian forces,proxy forces and allies,core
+axis of resistance,proxy forces and allies,core
+Naim Qassem,proxy forces and allies,related
+Abdul-Malik al-Houthi,proxy forces and allies,related
+Hamas,proxy forces and allies,related
+Palestinian Islamic Jihad,proxy forces and allies,related
+Lebanon war,regional dimensions,core
+2026 Lebanon war,regional dimensions,core
+attacks on Lebanon,regional dimensions,core
+Israel Lebanon,regional dimensions,related
+Israel-Lebanon ceasefire,regional dimensions,core
+Gulf states,regional dimensions,related
+Gulf Cooperation Council,regional dimensions,related
+GCC,regional dimensions,related
+Saudi Arabia,regional dimensions,contextual
+Qatar,regional dimensions,contextual
+UAE,regional dimensions,contextual
+United Arab Emirates,regional dimensions,contextual
+Kuwait,regional dimensions,contextual
+Bahrain,regional dimensions,contextual
+Iraq,regional dimensions,contextual
+Jordan,regional dimensions,contextual
+Oman,regional dimensions,contextual
+Red Sea,regional dimensions,related
+Persian Gulf,regional dimensions,related
+Arabian Gulf,regional dimensions,related
+West Asia,regional dimensions,contextual
+oil prices,economic impact,core
+oil price surge,economic impact,core
+crude oil,economic impact,related
+Brent crude,economic impact,related
+gas prices,economic impact,related
+fuel prices,economic impact,related
+fuel shortage,economic impact,core
+energy crisis,economic impact,core
+oil crisis,economic impact,core
+oil supply,economic impact,related
+oil exports,economic impact,related
+LNG exports,economic impact,related
+liquefied natural gas,economic impact,related
+energy supply,economic impact,related
+oil market,economic impact,related
+petroleum,economic impact,contextual
+barrel,economic impact,contextual
+global trade disruption,economic impact,core
+supply chain disruption,economic impact,related
+shipping reroutes,economic impact,related
+flight disruptions,economic impact,related
+airspace closure,economic impact,related
+economic damage,economic impact,related
+economic impact,economic impact,related
+sanctions,economic impact,core
+Iran sanctions,economic impact,core
+maximum pressure,economic impact,core
+sanctions enforcement,economic impact,related
+shadow fleet,economic impact,related
+oil smuggling,economic impact,related
+illicit oil,economic impact,related
+force majeure,economic impact,related
+panic buying,economic impact,related
+rationing,economic impact,related
+IEA oil release,economic impact,related
+strategic petroleum reserve,economic impact,related
+civilian casualties,humanitarian,core
+civilian deaths,humanitarian,core
+casualties,humanitarian,related
+killed,humanitarian,contextual
+wounded,humanitarian,contextual
+injured,humanitarian,contextual
+mass displacement,humanitarian,core
+refugees,humanitarian,related
+Iranian refugees,humanitarian,core
+evacuations,humanitarian,core
+humanitarian crisis,humanitarian,core
+humanitarian aid,humanitarian,related
+humanitarian corridor,humanitarian,related
+infrastructure damage,humanitarian,related
+war crimes,humanitarian,related
+internet blackout,humanitarian,core
+Iran internet blackout,humanitarian,core
+desalination plants,humanitarian,related
+food supply disruption,humanitarian,related
+grocery supply emergency,humanitarian,related
+cyberwarfare,information warfare,core
+cyber attacks,information warfare,related
+cyber operations,information warfare,related
+hacktivists,information warfare,related
+information operations,information warfare,related
+propaganda,information warfare,contextual
+disinformation,information warfare,contextual
+anti-war,domestic and political,core
+anti-war protests,domestic and political,core
+war powers,domestic and political,core
+War Powers Act,domestic and political,core
+authorization of military force,domestic and political,core
+AUMF,domestic and political,related
+congressional oversight,domestic and political,related
+illegal war,domestic and political,related
+regime change,domestic and political,related
+Iranian regime,domestic and political,related
+Islamic Republic,domestic and political,related
+Iranian government,domestic and political,related
+leadership transition,domestic and political,related
+internal instability,domestic and political,related
+Iranian protests,domestic and political,related
+maximum pressure,domestic and political,core
+IMEC,economic corridors,related
+East-West pipeline,economic corridors,related
+Bandar Abbas,locations,related
+Khasab,locations,contextual
+Tehran,locations,related
+Isfahan,locations,related
+Natanz,locations,related
+Fordow,locations,related

@@ -1,0 +1,575 @@
+keyword,category,tier
+real estate,general,core
+real property,general,core
+property,general,core
+properties,general,core
+housing,general,core
+housing market,general,core
+real estate market,general,core
+property market,general,core
+home,general,contextual
+homes,general,contextual
+house,general,contextual
+houses,general,contextual
+homeowner,general,core
+homeownership,general,core
+homebuyer,general,core
+homebuyers,general,core
+home buyer,general,core
+first-time buyer,general,core
+first-time homebuyer,general,core
+home seller,general,core
+residential,general,core
+commercial real estate,general,core
+CRE,general,core
+industrial real estate,general,related
+mixed-use,general,related
+single-family,property types,core
+single family home,property types,core
+multi-family,property types,core
+multifamily,property types,core
+duplex,property types,core
+triplex,property types,core
+fourplex,property types,core
+townhouse,property types,core
+townhome,property types,core
+condo,property types,core
+condominium,property types,core
+co-op,property types,related
+cooperative,property types,related
+apartment,property types,core
+apartment building,property types,core
+apartment complex,property types,core
+penthouse,property types,related
+loft,property types,related
+studio apartment,property types,related
+mansion,property types,related
+estate,property types,related
+bungalow,property types,related
+ranch house,property types,related
+colonial,property types,contextual
+Cape Cod,property types,contextual
+Tudor,property types,contextual
+Victorian,property types,contextual
+craftsman,property types,contextual
+split-level,property types,related
+mobile home,property types,core
+manufactured home,property types,core
+modular home,property types,related
+prefab,property types,related
+tiny home,property types,related
+tiny house,property types,related
+ADU,property types,core
+accessory dwelling unit,property types,core
+granny flat,property types,related
+in-law suite,property types,related
+guest house,property types,related
+fixer-upper,property types,core
+teardown,property types,related
+new construction,property types,core
+new build,property types,core
+pre-construction,property types,related
+spec home,property types,related
+tract home,property types,related
+custom home,property types,related
+vacant lot,property types,core
+vacant land,property types,core
+raw land,property types,related
+acreage,property types,related
+parcel,property types,related
+lot,property types,contextual
+plot,property types,contextual
+office space,commercial property types,core
+office building,commercial property types,core
+retail space,commercial property types,core
+storefront,commercial property types,related
+strip mall,commercial property types,related
+shopping center,commercial property types,related
+mall,commercial property types,contextual
+warehouse,commercial property types,core
+industrial park,commercial property types,related
+flex space,commercial property types,related
+coworking space,commercial property types,related
+self-storage,commercial property types,related
+hotel,commercial property types,contextual
+hospitality,commercial property types,contextual
+data center,commercial property types,related
+medical office,commercial property types,related
+for sale,buying and selling,core
+for sale by owner,buying and selling,core
+FSBO,buying and selling,core
+listed,buying and selling,core
+listing,buying and selling,core
+new listing,buying and selling,core
+just listed,buying and selling,core
+price reduced,buying and selling,core
+price cut,buying and selling,core
+price drop,buying and selling,core
+asking price,buying and selling,core
+list price,buying and selling,core
+sale price,buying and selling,core
+sold,buying and selling,related
+just sold,buying and selling,core
+pending,buying and selling,core
+under contract,buying and selling,core
+contingent,buying and selling,core
+active listing,buying and selling,related
+days on market,buying and selling,core
+DOM,buying and selling,related
+off-market,buying and selling,core
+pocket listing,buying and selling,related
+open house,buying and selling,core
+showing,buying and selling,related
+home tour,buying and selling,related
+walkthrough,buying and selling,related
+bidding war,buying and selling,core
+multiple offers,buying and selling,core
+best and final,buying and selling,related
+highest and best,buying and selling,related
+overbid,buying and selling,related
+lowball offer,buying and selling,related
+offer,buying and selling,contextual
+counteroffer,buying and selling,related
+accepted offer,buying and selling,related
+backup offer,buying and selling,related
+buyer's market,buying and selling,core
+seller's market,buying and selling,core
+escalation clause,buying and selling,related
+earnest money,buying and selling,core
+good faith deposit,buying and selling,related
+due diligence,buying and selling,related
+contingency,buying and selling,core
+inspection contingency,buying and selling,core
+financing contingency,buying and selling,related
+appraisal contingency,buying and selling,related
+waive contingency,buying and selling,related
+as-is,buying and selling,related
+closing,buying and selling,core
+closing costs,buying and selling,core
+closing date,buying and selling,related
+settlement,buying and selling,related
+escrow,buying and selling,core
+in escrow,buying and selling,core
+title,buying and selling,core
+title search,buying and selling,related
+title insurance,buying and selling,related
+clear title,buying and selling,related
+deed,buying and selling,core
+deed transfer,buying and selling,related
+warranty deed,buying and selling,related
+quitclaim deed,buying and selling,related
+conveyance,buying and selling,related
+transfer tax,buying and selling,related
+home inspection,buying and selling,core
+inspection report,buying and selling,related
+appraisal,buying and selling,core
+appraised value,buying and selling,core
+home appraisal,buying and selling,core
+comparative market analysis,buying and selling,core
+CMA,buying and selling,related
+comps,buying and selling,core
+comparable sales,buying and selling,core
+fair market value,buying and selling,core
+assessed value,buying and selling,core
+home value,buying and selling,core
+property value,buying and selling,core
+property values,buying and selling,core
+home prices,market and pricing,core
+house prices,market and pricing,core
+housing prices,market and pricing,core
+home sales,market and pricing,core
+housing sales,market and pricing,core
+existing home sales,market and pricing,core
+new home sales,market and pricing,core
+pending home sales,market and pricing,core
+median home price,market and pricing,core
+median sale price,market and pricing,core
+average home price,market and pricing,related
+price per square foot,market and pricing,core
+home price index,market and pricing,core
+Case-Shiller,market and pricing,core
+S&P Case-Shiller,market and pricing,core
+FHFA,market and pricing,related
+housing starts,market and pricing,core
+building permits,market and pricing,core
+housing inventory,market and pricing,core
+months of supply,market and pricing,core
+housing supply,market and pricing,core
+housing shortage,market and pricing,core
+housing crisis,market and pricing,core
+housing affordability,market and pricing,core
+affordability crisis,market and pricing,core
+housing bubble,market and pricing,core
+real estate bubble,market and pricing,core
+housing crash,market and pricing,core
+housing boom,market and pricing,core
+housing slump,market and pricing,core
+housing recovery,market and pricing,related
+housing downturn,market and pricing,core
+housing correction,market and pricing,core
+overvalued,market and pricing,related
+undervalued,market and pricing,related
+appreciation,market and pricing,core
+home appreciation,market and pricing,core
+property appreciation,market and pricing,core
+depreciation,market and pricing,core
+equity,market and pricing,core
+home equity,market and pricing,core
+negative equity,market and pricing,core
+underwater,market and pricing,core
+upside down,market and pricing,related
+housing demand,market and pricing,core
+low inventory,market and pricing,core
+tight inventory,market and pricing,related
+absorption rate,market and pricing,related
+housing starts,market and pricing,core
+housing completions,market and pricing,related
+NAR,market and pricing,core
+National Association of Realtors,market and pricing,core
+mortgage,financing,core
+home loan,financing,core
+mortgage rate,financing,core
+mortgage rates,financing,core
+interest rate,financing,related
+30-year fixed,financing,core
+15-year fixed,financing,core
+fixed-rate mortgage,financing,core
+adjustable-rate mortgage,financing,core
+ARM,financing,core
+variable rate,financing,related
+mortgage payment,financing,core
+monthly payment,financing,related
+PITI,financing,related
+principal,financing,related
+interest,financing,contextual
+amortization,financing,related
+pre-approval,financing,core
+pre-approved,financing,core
+prequalified,financing,core
+prequalification,financing,core
+mortgage application,financing,related
+mortgage approval,financing,related
+mortgage denial,financing,related
+underwriting,financing,related
+debt-to-income,financing,related
+DTI,financing,related
+credit score,financing,related
+FICO,financing,related
+down payment,financing,core
+zero down,financing,related
+low down payment,financing,related
+20 percent down,financing,related
+PMI,financing,core
+private mortgage insurance,financing,core
+mortgage insurance,financing,core
+FHA loan,financing,core
+FHA,financing,core
+VA loan,financing,core
+USDA loan,financing,related
+conventional loan,financing,core
+conforming loan,financing,related
+jumbo loan,financing,core
+jumbo mortgage,financing,core
+non-QM,financing,related
+portfolio loan,financing,related
+bridge loan,financing,related
+construction loan,financing,related
+hard money loan,financing,related
+home equity loan,financing,core
+HELOC,financing,core
+home equity line of credit,financing,core
+cash-out refinance,financing,core
+refinance,financing,core
+refinancing,financing,core
+refi,financing,core
+rate lock,financing,related
+points,financing,related
+discount points,financing,related
+origination fee,financing,related
+lender,financing,core
+mortgage lender,financing,core
+mortgage broker,financing,core
+loan officer,financing,related
+Fannie Mae,financing,core
+Freddie Mac,financing,core
+Ginnie Mae,financing,related
+GSE,financing,related
+conforming limit,financing,related
+loan limit,financing,related
+mortgage-backed securities,financing,related
+MBS,financing,related
+secondary mortgage market,financing,related
+foreclosure,distressed properties,core
+foreclosed,distressed properties,core
+bank-owned,distressed properties,core
+REO,distressed properties,core
+real estate owned,distressed properties,core
+short sale,distressed properties,core
+pre-foreclosure,distressed properties,core
+notice of default,distressed properties,related
+auction,distressed properties,core
+sheriff's sale,distressed properties,related
+tax lien,distressed properties,related
+tax deed,distressed properties,related
+delinquent,distressed properties,related
+delinquency,distressed properties,related
+mortgage delinquency,distressed properties,core
+default,distressed properties,core
+loan modification,distressed properties,related
+forbearance,distressed properties,core
+underwater mortgage,distressed properties,core
+distressed property,distressed properties,core
+distressed sale,distressed properties,core
+rent,rental market,core
+rental,rental market,core
+renter,rental market,core
+renters,rental market,core
+tenant,rental market,core
+tenants,rental market,core
+landlord,rental market,core
+lease,rental market,core
+lease agreement,rental market,related
+rental agreement,rental market,related
+month-to-month,rental market,related
+lease renewal,rental market,related
+lease termination,rental market,related
+rent increase,rental market,core
+rent hike,rental market,core
+rising rents,rental market,core
+rent prices,rental market,core
+rental prices,rental market,core
+median rent,rental market,core
+average rent,rental market,related
+rent control,rental market,core
+rent stabilization,rental market,core
+rent cap,rental market,related
+rent freeze,rental market,related
+eviction,rental market,core
+eviction moratorium,rental market,core
+eviction notice,rental market,related
+unlawful detainer,rental market,related
+security deposit,rental market,related
+rental application,rental market,related
+rental market,rental market,core
+vacancy rate,rental market,core
+occupancy rate,rental market,related
+sublease,rental market,related
+sublet,rental market,related
+Section 8,rental market,core
+housing voucher,rental market,core
+affordable housing,rental market,core
+low-income housing,rental market,core
+public housing,rental market,core
+subsidized housing,rental market,core
+market rate,rental market,related
+fair market rent,rental market,related
+rental yield,rental market,related
+gross rent,rental market,related
+net rent,rental market,related
+triple net,rental market,related
+NNN,rental market,related
+CAM charges,rental market,related
+real estate investment,investment,core
+investment property,investment,core
+income property,investment,core
+rental property,investment,core
+buy-to-let,investment,core
+house flipping,investment,core
+flip,investment,core
+flipping houses,investment,core
+fix and flip,investment,core
+BRRRR,investment,core
+wholesale,investment,related
+wholesaling,investment,related
+real estate investor,investment,core
+property investor,investment,core
+cash flow,investment,core
+positive cash flow,investment,related
+negative cash flow,investment,related
+cap rate,investment,core
+capitalization rate,investment,core
+ROI,investment,related
+return on investment,investment,related
+cash-on-cash return,investment,related
+NOI,investment,core
+net operating income,investment,core
+gross rental yield,investment,related
+1031 exchange,investment,core
+like-kind exchange,investment,core
+tax-deferred exchange,investment,related
+depreciation,investment,related
+cost segregation,investment,related
+passive income,investment,related
+real estate syndication,investment,related
+REIT,investment,core
+real estate investment trust,investment,core
+real estate fund,investment,related
+real estate crowdfunding,investment,related
+Opportunity Zone,investment,core
+real estate portfolio,investment,related
+turnkey,investment,related
+turnkey property,investment,related
+value-add,investment,related
+value add,investment,related
+real estate agent,professionals,core
+realtor,professionals,core
+Realtor,professionals,core
+broker,professionals,core
+real estate broker,professionals,core
+listing agent,professionals,core
+buyer's agent,professionals,core
+seller's agent,professionals,core
+dual agency,professionals,related
+commission,professionals,core
+real estate commission,professionals,core
+buyer agent commission,professionals,core
+NAR settlement,professionals,core
+MLS,professionals,core
+multiple listing service,professionals,core
+real estate attorney,professionals,related
+closing attorney,professionals,related
+title company,professionals,related
+escrow officer,professionals,related
+home inspector,professionals,related
+appraiser,professionals,core
+surveyor,professionals,related
+property manager,professionals,core
+property management,professionals,core
+HOA,professionals,related
+homeowners association,professionals,related
+zoning,development and construction,core
+rezoning,development and construction,core
+zoning variance,development and construction,related
+zoning ordinance,development and construction,related
+land use,development and construction,core
+entitlement,development and construction,related
+permitting,development and construction,related
+building permit,development and construction,core
+building code,development and construction,related
+code violation,development and construction,related
+subdivision,development and construction,core
+plat,development and construction,related
+platted,development and construction,related
+easement,development and construction,related
+setback,development and construction,related
+density,development and construction,related
+upzoning,development and construction,core
+downzoning,development and construction,related
+mixed-use development,development and construction,core
+transit-oriented development,development and construction,related
+TOD,development and construction,related
+infill development,development and construction,related
+greenfield,development and construction,related
+brownfield,development and construction,related
+ground-up development,development and construction,related
+real estate development,development and construction,core
+developer,development and construction,core
+real estate developer,development and construction,core
+property development,development and construction,core
+homebuilder,development and construction,core
+builder,development and construction,related
+general contractor,development and construction,related
+renovation,development and construction,core
+remodel,development and construction,core
+remodeling,development and construction,core
+rehab,development and construction,related
+gut renovation,development and construction,related
+addition,development and construction,contextual
+home improvement,development and construction,core
+curb appeal,development and construction,related
+staging,development and construction,related
+home staging,development and construction,related
+square footage,property features,core
+square feet,property features,core
+sqft,property features,related
+bedrooms,property features,core
+bathrooms,property features,core
+bed bath,property features,related
+half bath,property features,related
+open floor plan,property features,related
+garage,property features,contextual
+pool,property features,contextual
+backyard,property features,contextual
+basement,property features,contextual
+attic,property features,contextual
+deck,property features,contextual
+patio,property features,contextual
+hardwood floors,property features,related
+granite countertops,property features,contextual
+stainless steel appliances,property features,contextual
+updated kitchen,property features,related
+move-in ready,property features,core
+turnkey,property features,related
+lot size,property features,related
+waterfront,property features,related
+lakefront,property features,related
+ocean view,property features,related
+mountain view,property features,contextual
+gated community,property features,related
+HOA fees,property features,related
+condo fees,property features,related
+property tax,taxes and policy,core
+property taxes,taxes and policy,core
+real estate tax,taxes and policy,core
+tax assessment,taxes and policy,core
+assessed value,taxes and policy,core
+tax rate,taxes and policy,related
+millage rate,taxes and policy,related
+mill rate,taxes and policy,related
+tax appeal,taxes and policy,related
+homestead exemption,taxes and policy,related
+mortgage interest deduction,taxes and policy,related
+SALT deduction,taxes and policy,related
+capital gains,taxes and policy,core
+capital gains tax,taxes and policy,core
+capital gains exclusion,taxes and policy,related
+step-up in basis,taxes and policy,related
+Proposition 13,taxes and policy,related
+housing policy,taxes and policy,core
+housing legislation,taxes and policy,related
+fair housing,taxes and policy,core
+Fair Housing Act,taxes and policy,core
+housing discrimination,taxes and policy,core
+redlining,taxes and policy,related
+predatory lending,taxes and policy,related
+Community Reinvestment Act,taxes and policy,related
+NIMBY,taxes and policy,core
+YIMBY,taxes and policy,core
+inclusionary zoning,taxes and policy,related
+rent seeking,taxes and policy,contextual
+eminent domain,taxes and policy,related
+condemnation,taxes and policy,related
+gentrification,neighborhood and location,core
+displacement,neighborhood and location,related
+neighborhood,neighborhood and location,contextual
+school district,neighborhood and location,related
+walkability,neighborhood and location,related
+walk score,neighborhood and location,related
+commute,neighborhood and location,contextual
+transit,neighborhood and location,contextual
+suburban,neighborhood and location,related
+suburbs,neighborhood and location,related
+urban,neighborhood and location,contextual
+rural,neighborhood and location,contextual
+exurb,neighborhood and location,related
+downtown,neighborhood and location,contextual
+relocation,neighborhood and location,related
+relocating,neighborhood and location,related
+Zillow,platforms and data,core
+Redfin,platforms and data,core
+Realtor.com,platforms and data,core
+Trulia,platforms and data,related
+Homes.com,platforms and data,related
+LoopNet,platforms and data,related
+CoStar,platforms and data,related
+Apartments.com,platforms and data,related
+Zestimate,platforms and data,core
+home estimate,platforms and data,related
+online valuation,platforms and data,related
+AVM,platforms and data,related
+automated valuation model,platforms and data,related
+iBuyer,platforms and data,core
+Opendoor,platforms and data,related
+Offerpad,platforms and data,related
+PropTech,platforms and data,related
+real estate tech,platforms and data,related

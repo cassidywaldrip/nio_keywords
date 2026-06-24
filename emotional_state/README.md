@@ -1,6 +1,6 @@
 # Emotional States Keywords
 
-A collection of **13,041 unique emotion-related words and phrases**, compiled from multiple NLP sentiment/emotion lexicons and manually curated vocabulary lists. Designed for use in a keyword collector pipeline.
+A collection of emotion-related words and phrases compiled from multiple NLP sentiment/emotion lexicons and manually curated vocabulary lists. Available in two versions: a **full set** (13,041 keywords) and a **core filtered set** (3,467 keywords). Designed for use in a keyword collector pipeline.
 
 ## Data Sources
 
@@ -11,20 +11,47 @@ A collection of **13,041 unique emotion-related words and phrases**, compiled fr
 | **VADER** | Valence Aware Dictionary and sEntiment Reasoner (Hutto & Gilbert, 2014). Built for social media text. | ~7,500 | Valence scores from −4 to +4; includes emoji, slang, and acronyms |
 | **Manual curation** | Hand-picked emotion vocabulary organized by Plutchik's Wheel of Emotions, supplemented with psychological states commonly used in ESL/EFL teaching materials. | ~440 | Fine-grained categories not covered by the above (e.g., shame, jealousy, boredom, loneliness, stress) |
 
+## Full vs. Core
+
+The **full set** merges all four lexicons as-is. Because NRC EmoLex uses a loose "association" annotation scheme, many non-emotion words are included (e.g., "anarchism" tagged as anger-related, "analyst" tagged as trust-related).
+
+The **core set** applies **cross-lexicon validation**: a word is retained only if it appears in at least 2 of the 3 major lexicons (NRC EmoLex, AFINN, VADER), or if it belongs to the manually curated emotion vocabulary. This removes noisy entries while preserving genuine emotion words that multiple independent sources agree on.
+
+| | Full | Core |
+|---|---|---|
+| Unique keywords | 13,041 | 3,467 |
+| Filtering | None | Cross-lexicon (2+ lexicons) or manually curated |
+
 ## Files
+
+### Core (filtered)
 
 | File | Description |
 |------|-------------|
-| `emotion_keywords_final.txt` | **Primary output.** 13,041 unique keywords, one per line. Ready to feed into a keyword collector. |
+| `emotion_keywords_core_list.txt` | **Recommended for the keyword collector.** 3,467 core keywords, one per line. |
+| `emotion_keywords_core.csv` | Core dataset with columns: `category`, `word`, `source`. Each word can appear in multiple categories. |
+| `emotion_keywords_core_with_categories.csv` | Lookup table with columns: `word`, `categories`. Each core word mapped to all of its associated emotion labels (comma-separated). 3,467 rows. |
+
+### Full (unfiltered)
+
+| File | Description |
+|------|-------------|
+| `emotion_keywords_final.txt` | 13,041 unique keywords, one per line. |
 | `emotion_keywords_merged.csv` | Full dataset with columns: `category`, `word`, `source`. 25,229 rows (a word can appear in multiple categories). |
-| `emotion_keywords_with_all_categories.csv` | Lookup table with columns: `word`, `categories`. Each word is mapped to all of its associated emotion labels (comma-separated). 13,041 rows. |
+| `emotion_keywords_with_all_categories.csv` | Lookup table with columns: `word`, `categories`. Each word mapped to all of its associated emotion labels (comma-separated). 13,041 rows. |
 | `nrc_emolex_by_emotion.csv` | Raw NRC EmoLex data with columns: `emotion`, `word`. |
+| `emotion_keywords_by_category.csv` | AFINN + VADER + manual curation data with columns: `category`, `word`. |
+
+### Scripts
+
+| File | Description |
+|------|-------------|
 | `fetch_emotion_keywords.py` | Python script that downloads AFINN and VADER lexicons, adds manually curated words, and outputs the merged CSV and keyword list. |
 | `fix_nrclex.py` | Helper script that loads NRC EmoLex through multiple fallback methods (local file → GitHub download → NRCLex API). |
 
 ## Category Reference
 
-**NRC EmoLex categories** (prefixed with `nrc_` in the merged file):
+**NRC EmoLex categories** (prefixed with `nrc_` in the merged/core files):
 
 `nrc_anger` · `nrc_anticipation` · `nrc_disgust` · `nrc_fear` · `nrc_joy` · `nrc_sadness` · `nrc_surprise` · `nrc_trust` · `nrc_positive` · `nrc_negative`
 

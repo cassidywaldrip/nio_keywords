@@ -1,0 +1,79 @@
+keyword,category,tier
+GLP-1,drug_class,core
+GLP1,drug_class,core
+GLP-1 agonist,drug_class,core
+GLP-1 receptor agonist,drug_class,core
+incretin,drug_class,core
+incretin mimetic,drug_class,core
+semaglutide,generic_name,core
+tirzepatide,generic_name,core
+liraglutide,generic_name,core
+dulaglutide,generic_name,core
+exenatide,generic_name,core
+lixisenatide,generic_name,core
+albiglutide,generic_name,core
+retatrutide,generic_name,core
+orforglipron,generic_name,core
+Ozempic,brand_name,core
+Wegovy,brand_name,core
+Rybelsus,brand_name,core
+Mounjaro,brand_name,core
+Zepbound,brand_name,core
+Trulicity,brand_name,core
+Victoza,brand_name,core
+Saxenda,brand_name,core
+Byetta,brand_name,core
+Bydureon,brand_name,core
+Adlyxin,brand_name,core
+Soliqua,brand_name,core
+Xultophy,brand_name,core
+compounded semaglutide,market_variant,related
+compounded tirzepatide,market_variant,related
+generic Ozempic,market_variant,related
+semaglutide injection,market_variant,related
+research-grade semaglutide,market_variant,related
+peptide semaglutide,market_variant,related
+GIP/GLP-1 dual agonist,drug_class,related
+triple agonist,drug_class,related
+weight loss injection,use_case,related
+weight loss medication,use_case,related
+diabetes medication,use_case,related
+type 2 diabetes treatment,use_case,related
+obesity treatment,use_case,related
+anti-obesity medication,use_case,related
+appetite suppressant,use_case,related
+blood sugar control,use_case,related
+A1C reduction,use_case,related
+cardiovascular risk reduction,use_case,related
+Ozempic face,side_effect,related
+Ozempic butt,side_effect,related
+GLP-1 side effects,side_effect,related
+semaglutide nausea,side_effect,related
+GLP-1 muscle loss,side_effect,related
+gastroparesis,side_effect,related
+rebound weight gain,side_effect,related
+GLP-1 shortage,market_event,related
+Ozempic shortage,market_event,related
+semaglutide dosing,clinical,related
+GLP-1 titration,clinical,related
+prior authorization GLP-1,insurance,related
+GLP-1 insurance coverage,insurance,related
+GLP-1 cost,insurance,related
+semaglutide price,insurance,related
+telehealth weight loss,access,related
+online weight loss prescription,access,related
+Novo Nordisk,company,contextual
+Eli Lilly,company,contextual
+FDA GLP-1,regulatory,contextual
+compounding pharmacy semaglutide,regulatory,contextual
+GLP-1 lawsuit,legal,contextual
+semaglutide patent,legal,contextual
+GLP-1 clinical trial,research,contextual
+weight loss drug pipeline,research,contextual
+Ozempic before and after,social,contextual
+semaglutide diet,social,contextual
+microdosing semaglutide,social,contextual
+GLP-1 community,social,contextual
+"on Ozempic",social,contextual
+GLP-1 diet culture,social,contextual
+weight loss drug demand,market_event,contextual

@@ -1,6 +1,10 @@
 keyword,category,tier
+health,general health,core
+healthcare,general health,core
+health care,general health,core
 sick,general health,core
 ill,general health,core
+illness,general health,core
 unwell,general health,core
 under the weather,general health,core
 not feeling well,general health,core
@@ -386,6 +390,7 @@ hyperthyroid,chronic conditions,core
 Hashimoto's,chronic conditions,related
 PCOS,chronic conditions,related
 endometriosis,chronic conditions,core
+pain,pain,core
 chronic pain,pain,core
 pain management,pain,core
 pain relief,pain,core
@@ -457,6 +462,12 @@ immunization,medication and treatment,core
 flu shot,medication and treatment,core
 anti-vaxx,medication and treatment,related
 vaxxed,medication and treatment,related
+medicare,healthcare system,core
+medicaid,healthcare system,core
+obamacare,healthcare system,core
+aca,healthcare system,core
+affordable care act,healtcare system,core
+healthcare system,healthcare system,core
 doctor,healthcare system,core
 doc,healthcare system,related
 physician,healthcare system,core
@@ -553,6 +564,8 @@ blackout drunk,substance use,related
 hungover,substance use,related
 hangover,substance use,related
 DUI,substance use,contextual
+reproductive health,reproductive health,core
+reproductive,reproductive health,core
 pregnant,reproductive health,core
 pregnancy,reproductive health,core
 expecting,reproductive health,related
